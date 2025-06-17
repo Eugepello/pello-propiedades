@@ -13,6 +13,7 @@ const lexend = Lexend ({
 export const metadata = {
   title: "Pello Propiedades",
   description: "El hogar que merecés, con el respaldo que necesitás.",
+  favicon: "/favicon.ico",
 };
 
 export default function RootLayout({ children }) {
