@@ -26,7 +26,7 @@ import {
   Scan,
   Leaf,
   WavesLadder,
-  MapPin
+  Clock,
 } from "lucide-react";
 
 const iconosCaracteristicas = {
@@ -43,7 +43,8 @@ const iconosCaracteristicas = {
   wifi: Wifi,
   edificio: Building2,
   ambientesSeparados: DoorOpen,
-  default: HelpCircle
+  default: HelpCircle,
+  antiguedad: Clock
 };
 
 
@@ -52,7 +53,7 @@ export default function PropertyCard({ propiedad }) {
   const [modalOpen, setModalOpen] = useState(false);
   const [currentIndex, setCurrentIndex] = useState(null);
   const [state, handleSubmit] = useForm(process.env.NEXT_PUBLIC_FORMSPREE_ID_CONTACTO);
-  
+
 
   if (!propiedad || !propiedad.imagenes || propiedad.imagenes.length === 0) {
     return notFound();
