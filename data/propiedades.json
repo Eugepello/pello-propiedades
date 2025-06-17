@@ -1,0 +1,601 @@
+[{
+        "id": "casa-ayres-del-pilar",
+        "titulo": "Casa en Ayres del Pilar",
+        "precio": "580.000",
+        "ubicacion": "Ayres del Pilar, Buenos Aires",
+        "ambientes": "4",
+        "tipo": "Casa",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3290.5988864046594!2d-58.80300432517326!3d-34.43694247301447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bc9f99b9d32b1f%3A0x40878d53d968fd83!2sAyres%20de%20Pilar!5e0!3m2!1ses-419!2sar!4v1749667463985!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "4 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "5 baños", "tipo": "baños" },
+            { "nombre": "Cochera", "tipo": "cochera" },
+            { "nombre": "600 m² totales", "tipo": "superficie" },
+            { "nombre": "352,64 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "🏡 Casa en venta en Ayres de Pilar, uno de los barrios más exclusivos de Zona Norte. Con 352 m² cubiertos, ofrece 4 dormitorios (2 en suite), 5 baños y un estudio con baño completo. 🍽️ Cocina moderna con comedor diario, amplio living-comedor y balcones terraza al frente y contrafrente. 🌿 Cuenta con jardín, pileta, altillo y baulera bajo escalera. 🏘️ Amenities premium: seguridad 24hs, gimnasio, canchas deportivas y house con servicio de comidas.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757811/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_89444423288314357632649609656802601431931065795355977060147121451159677797499_bg2cdv.jpg",
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757855/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_26732972781339063364172422990886813273474395640377114417715506207425671252545_csrlje.jpg",
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757849/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_43148948152626212498229418282788116651811264993457028095846174278911814863653_ofttd2.jpg",
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757727/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_97311568425025275115047127856273494030236022101779779176961274278170187148183_muizee.jpg",
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757726/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_85131116171272851653341089349019570517004925687937484682251161608040482994867_kctmyh.jpg",
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757793/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_37908091826134260048640403044937622332365474330531808327244576441754561272039_gbotlw.jpg",
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757799/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_13347443637949766915017443952396968468086604721840099523663723492252012651383_gyfy2d.jpg",
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757799/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_97008025412124462401444686762667003895040670370951875340359294764509959911213_wwexsz.jpg",
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757509/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_1443347126959312381377727226476769415376837216080852977341988585758145871582_me5hoe.jpg",
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757726/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_110138177556212303027503561663218854134301445662900570561266637163851711944611_w90kyj.jpg",
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757486/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_115154224850674860205695859829952201625674312893779510827385922807231712950265_zivfwi.jpg",
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757481/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_65577133833007025706489828590152976774367652176158294976678162004875556882142_bm8g15.jpg",
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757479/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_19652591249631790346978543696740646595128474165641659608326964781557463587266_o7ukay.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757479/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_103872489098164812823018530747794732087372463963934649990230440333507196195844_ijyffu.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757477/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_69844862979662026778744418008445775255453682665681975565865223119130857596023_piaec2.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757477/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_29140305829752733235087006655126796509464416505219279516942789371414939993350_tjuz2v.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757324/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_24922677844099249639744534657742889136222519965065126081597091233057702237967_h1a6eg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757301/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_6856764708274744099078396501201175853991984403998624510041910012027448519950_a9rjve.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757300/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_8843635258309841608258615176278676493904118549510291511608076126961239492621_meaojp.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757320/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_60608021195233558988114254804211827766616602310892542750697871725887906200576_biaf9r.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757308/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_10830288082697695512762554009298344939358222687014648032114910353041770148678_yzecv8.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757300/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_86721340860071429366576982824651848048752512035101599042226790388254742872749_jox6lr.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757272/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_76386453667776224607124101138177594449896188479012579726097894494986084133651_pmybn3.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757268/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_85935019759091789043573759517215726517208990789088481421360221787088346160505_alt7xn.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757271/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_90118081237366744254379146285174287297167048857552944412832949809556183644156_qoc7ki.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757270/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_37183400081258644891911656936343819878344142299094451786139022492889060274416_u6mghn.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757269/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_52079679069833151566372194870555840986682341672624639758066709705181376389253_jbh7cn.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757267/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_32833852726740829801125156386953734216336543318423976972253483117966637372709_pyfa3w.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757267/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_17127787804197399658508613110089367834377796390525825281285602244074013960657_vfu2eh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757267/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_44843061350751287476590762866249292436318727057533838106241573202255787598429_it4oxh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757267/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_108036840873655180254139508567239905475401933864045376268406659283680311707417_i1yv2u.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757266/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_37774687395682432640641551217669060097386388283690412410286256084305021917176_wkjdsz.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757265/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_5302209843439403384226910142672061708644802031424422910709596152273976173141_qyiq9l.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757264/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_60942486016215990455941898250923037662594710906727686064171246510243670100645_udimlt.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757261/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_75106444533371328652729840185976305643652542367433818279318816302750502868735_ahliiv.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757261/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_98166817297756638441962361425049142117200019468009844796867811538581710989669_qguoll.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757161/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_9583159887536128961035799016296987947243093531764852414204430145664015186234_prfqbj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757159/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_5574884267231253465909272540059032891370658988824396180226242051297433342068_rj5iqd.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757159/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_11869337083644605928187029446174254233863041786242863481430345240304808563052_jyvumc.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757159/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_27205707243812960577441806768968979202127307493090235402110206495965791499620_j1sbgm.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757158/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_49117814647502178825063384788494546777564209475416960994964943459781295143113_ha0rq6.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757158/PROPIEDADES/CASA%20EN%20AYRES%20DEL%20PILAR/6767056_52213836121111769701964529956065313310605370645744077724092352991572407622436_ofexa6.jpg"
+        ]
+    },
+    {
+        "id": "local-en-florida-oeste",
+        "titulo": "Importante Local en Florida Oeste con estacionamiento estratégico",
+        "precio": "1.890.000",
+        "ubicacion": "Avenida San Martín 3460",
+        "ambientes": "",
+        "tipo": "Local",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.7102022968174!2d-58.50997702516783!3d-34.53556947297876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb6d56d042a5b%3A0xfeae20ff3029ec88!2sGral.%20Jos%C3%A9%20de%20San%20Mart%C3%ADn%203460%2C%20B1604DEQ%20Florida%20Oeste%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1749756420796!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "Estacionamiento propio +5 vehículos", "tipo": "cochera" },
+            { "nombre": "1580 m² totales", "tipo": "superficie" },
+            { "nombre": "1300 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Oficinas", "tipo": "oficina" },
+            { "nombre": "Depósito", "tipo": "deposito" },
+            { "nombre": "Baño para ambos géneros", "tipo": "baños" },
+            { "nombre": "Vestuario", "tipo": "vestuario" },
+            { "nombre": "Montacarga", "tipo": "montacarga" }
+        ],
+        "descripcion": "🏢 Importante local en venta sobre Av. San Martín 3460, Florida Oeste, con excelente visibilidad sobre arteria principal. A dos cuadras de Panamericana y una de Av. Mitre. Cuenta con 1.300 m² cubiertos, depósito, oficina, 3 baños, vestuarios, montacarga, entre otras cosas. 🚗 Se incluye en la operación el lote de enfrente de 280 m² utilizado como estacionamiento, ideal para potenciar logística, personal de empleados o atención al público. Una oportunidad única para desarrollar un polo comercial en una de las zonas más transitadas de Vicente López.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/c_crop,w_2400,h_1654/v1749915472/PROPIEDADES/SANITARIOS%20LONJEDO/Screenshot_2025-06-14_at_12.37.20_lyyusd.png", "https://res.cloudinary.com/eugepello/image/upload/v1749755487/PROPIEDADES/SANITARIOS%20LONJEDO/image00012_a2yyee.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755488/PROPIEDADES/SANITARIOS%20LONJEDO/image00011_fqizuf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755488/PROPIEDADES/SANITARIOS%20LONJEDO/image00010_ssuvzk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749752610/PROPIEDADES/SANITARIOS%20LONJEDO/DJI_20250612125631_0006_D_biz0n9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755768/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_125817_cqy19j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755775/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132026_jmzoie.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749756217/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132009_enp6mg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755778/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132106_q0wlvk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755776/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132140_jvwxkg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755773/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131922_yra64j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755778/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131934_uqymfq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755775/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131908_eunnds.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755482/PROPIEDADES/SANITARIOS%20LONJEDO/image00001_bgs5if.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755486/PROPIEDADES/SANITARIOS%20LONJEDO/image00007_azy3qq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755485/PROPIEDADES/SANITARIOS%20LONJEDO/image00005_vnipff.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755486/PROPIEDADES/SANITARIOS%20LONJEDO/image00006_jk7imh.jpg", "", "", "", "", ""
+        ]
+    },
+    {
+        "id": "casa-en-martinez",
+        "titulo": "Casa 4 ambientes en Martínez",
+        "precio": "370.000",
+        "ubicacion": "Carlos Pellegrini al 1000",
+        "ambientes": "4",
+        "tipo": "Casa",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3288.751357084831!2d-58.512119325170666!3d-34.483831372997564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb04d411c5e19%3A0x90cd3caf62d7204a!2sCarlos%20Pellegrini%201000%2C%20B1641CMD%20Mart%C3%ADnez%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1749668071309!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "3 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "Cochera", "tipo": "cochera" },
+            { "nombre": "145 m² totales", "tipo": "superficie" },
+            { "nombre": "111 m² cubiertos", "tipo": "superficieCubierta" }
+        ],
+        "descripcion": "🏡 Casa de 4 ambientes en venta en Martínez, ubicada sobre Carlos Pellegrini al 1000, una zona residencial muy buscada. Con 111 m² cubiertos y 145 m² totales, cuenta con 3 dormitorios, 1 baño y cochera. ✨ Ambientes bien distribuidos, ideal para familias que buscan comodidad y buena ubicación. 🌳 Cercana a comercios, colegios y accesos principales, esta propiedad combina funcionalidad y estilo de vida en uno de los barrios más consolidados de Zona Norte.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757845/PROPIEDADES/CASA%20MARTINEZ%20CARLOS%20PELLEGRINI%20AL%201000/39565221122522011357171133980236233054547112406799447758850248645652607697142_rkrdhh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757783/PROPIEDADES/CASA%20MARTINEZ%20CARLOS%20PELLEGRINI%20AL%201000/17216446023788525587537322699393747342183119145140197097165203496386138127625_n30g9a.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757350/PROPIEDADES/CASA%20MARTINEZ%20CARLOS%20PELLEGRINI%20AL%201000/31049438529271862669403098998967363550434877963925996451689348841142082210691_hpgwmz.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757387/PROPIEDADES/CASA%20MARTINEZ%20CARLOS%20PELLEGRINI%20AL%201000/28186694559999826913564805038631519611434589264447782221872691907083033752905_v5xyxb.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757782/PROPIEDADES/CASA%20MARTINEZ%20CARLOS%20PELLEGRINI%20AL%201000/90989831870519717319926252996718338146899553701204020448660392373044422616653_jp9xo5.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757387/PROPIEDADES/CASA%20MARTINEZ%20CARLOS%20PELLEGRINI%20AL%201000/71288428441261187518304684579378026345919300542288918882214297272609455361864_muafgw.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757378/PROPIEDADES/CASA%20MARTINEZ%20CARLOS%20PELLEGRINI%20AL%201000/49726022326822302504918785735081732974964432857270805235319598519191144382471_f1ltiv.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757386/PROPIEDADES/CASA%20MARTINEZ%20CARLOS%20PELLEGRINI%20AL%201000/4038870825008986615509550586088759536872294350550543981094948930200970103699_ywvtvd.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757779/PROPIEDADES/CASA%20MARTINEZ%20CARLOS%20PELLEGRINI%20AL%201000/91360326561450018803561970852522255419607021509408061947946483038400468347721_bffnky.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757782/PROPIEDADES/CASA%20MARTINEZ%20CARLOS%20PELLEGRINI%20AL%201000/78404702670690187461558799851164085586998402680190151250663033160295087054396_i8edb5.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757389/PROPIEDADES/CASA%20MARTINEZ%20CARLOS%20PELLEGRINI%20AL%201000/15665733019941166862881139043743815073271838842978603387061809125758924632587_lej7na.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757784/PROPIEDADES/CASA%20MARTINEZ%20CARLOS%20PELLEGRINI%20AL%201000/24604461521457329290679119971309003416418147398331328579003313394733244468305_qsq2un.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757787/PROPIEDADES/CASA%20MARTINEZ%20CARLOS%20PELLEGRINI%20AL%201000/17115511419958358702502226928177690209243192985026467859281207726154901028489_u3yaxd.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757779/PROPIEDADES/CASA%20MARTINEZ%20CARLOS%20PELLEGRINI%20AL%201000/98183837947506444086017594958206356687292709863117096357066263094280751907326_pychkp.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757815/PROPIEDADES/CASA%20MARTINEZ%20CARLOS%20PELLEGRINI%20AL%201000/17251737245972076958877640669635186915275541810173195423694449426756425264923_ptdvc4.jpg"
+        ]
+    },
+    {
+        "id": "gran-casa-en-martinez-fleming",
+        "titulo": "Gran casa 5 amb. en Martínez, excelente ubicación",
+        "precio": "460.000",
+        "ubicacion": "Fleming al 1100",
+        "ambientes": "5",
+        "tipo": "Casa",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3288.4270637847335!2d-58.52332541087523!3d-34.49205592893503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb05ba5f8ae9f%3A0xdc2656a99e8b415!2sAv.%20Sir%20Alexander%20Fleming%201100%2C%20B1640CSP%20Mart%C3%ADnez%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1749738556802!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "4 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "4 baños", "tipo": "baños" },
+            { "nombre": "2 cocheras", "tipo": "cochera" },
+            { "nombre": "472m² totales", "tipo": "superficie" },
+            { "nombre": "472m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "🏡 Gran casa de 5 ambientes en venta sobre Av. Fleming al 1100, en una de las mejores zonas de Martínez. Con 472 m² cubiertos, ofrece 4 dormitorios, 4 baños y 2 cocheras. ✨ Ambientes amplios y luminosos, jardín privado y piscina ideal para disfrutar en familia. 🌳 La propiedad combina categoría y comodidad, con excelente acceso a servicios, colegios y arterias principales. Una oportunidad única en Zona Norte.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757812/PROPIEDADES/ALUCINANTE%20CASA%20EN%20MARTINEZ%20FLEMING%20AL%201100/27080536086416892534844055405592482490459699590652651718758655736211588810294_zorrdq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757845/PROPIEDADES/ALUCINANTE%20CASA%20EN%20MARTINEZ%20FLEMING%20AL%201100/40719289880431779166510840494549536313152521047951553721952522849327425423363_pqr8aw.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757481/PROPIEDADES/ALUCINANTE%20CASA%20EN%20MARTINEZ%20FLEMING%20AL%201100/79859288332691059989338502308552073671285767306264715494771114033498718439244_eg2vvn.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757265/PROPIEDADES/ALUCINANTE%20CASA%20EN%20MARTINEZ%20FLEMING%20AL%201100/56480963129483245978222418340044247012668951279939532749340355403164975359676_zrqbgj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757323/PROPIEDADES/ALUCINANTE%20CASA%20EN%20MARTINEZ%20FLEMING%20AL%201100/43170404628104922514822984265850862073150114954091874476785603327996420246075_w4b3cg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757265/PROPIEDADES/ALUCINANTE%20CASA%20EN%20MARTINEZ%20FLEMING%20AL%201100/94692755511929929051463673610991736305799325101844413821655602081980003495925_kea6cj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757264/PROPIEDADES/ALUCINANTE%20CASA%20EN%20MARTINEZ%20FLEMING%20AL%201100/49513615419499054796248508298601151960561479868894778868593189023027430343827_km5wqr.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757263/PROPIEDADES/ALUCINANTE%20CASA%20EN%20MARTINEZ%20FLEMING%20AL%201100/42769119313549216384737512157427552696228413141605611373766285548165641964181_g7fk6o.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757262/PROPIEDADES/ALUCINANTE%20CASA%20EN%20MARTINEZ%20FLEMING%20AL%201100/109691724403818824555676248195619906779711524448237603679450466197549843513214_bvqb3h.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757166/PROPIEDADES/ALUCINANTE%20CASA%20EN%20MARTINEZ%20FLEMING%20AL%201100/17856314386145529024164959082892592534520848230104472970973937313168047946242_sqajnp.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757165/PROPIEDADES/ALUCINANTE%20CASA%20EN%20MARTINEZ%20FLEMING%20AL%201100/63219851832062273335601120895469725074308785896422848922847507072718765998425_z26rib.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757165/PROPIEDADES/ALUCINANTE%20CASA%20EN%20MARTINEZ%20FLEMING%20AL%201100/6253805690476924786737514163878274512752220670147414833640042675804851607850_guesvp.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757165/PROPIEDADES/ALUCINANTE%20CASA%20EN%20MARTINEZ%20FLEMING%20AL%201100/3496720907466484387284299151843732458544179037437614905470549528705401130467_aekvf8.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757158/PROPIEDADES/ALUCINANTE%20CASA%20EN%20MARTINEZ%20FLEMING%20AL%201100/89262401437215385739154148305824165856391536205799994309740645370637313354607_ks9qxm.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757158/PROPIEDADES/ALUCINANTE%20CASA%20EN%20MARTINEZ%20FLEMING%20AL%201100/29659849456903294048129052542996495316448886527413761831474125100095005298432_lxkqok.jpg"
+        ]
+    },
+    {
+        "id": "ph-san-isidro",
+        "titulo": "PH 5 ambientes en San Isidro",
+        "precio": "249.000",
+        "ubicacion": "Nicolas Avellaneda al 1300",
+        "ambientes": "5",
+        "tipo": "PH",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3289.0859511305443!2d-58.538238325171136!3d-34.47534377300063!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb016c1b6bf1d%3A0x2e9ff176d7ef6c26!2sNicol%C3%A1s%20Avellaneda%201300%2C%20B1642EYD%20San%20Isidro%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1749825193437!5m2!1ses!2sar",
+        "caracteristicas": [
+            { "nombre": "3 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "2 baños", "tipo": "baños" },
+            { "nombre": "2 Cocheras", "tipo": "cochera" },
+            { "nombre": "194 m² totales", "tipo": "superficie" },
+            { "nombre": "136 m² cubiertos", "tipo": "superficieCubierta" }
+
+        ],
+        "descripcion": "🏡 Casa tipo PH de 5 ambientes en venta, ubicada sobre Nicolás Avellaneda al 1300, en pleno San Isidro. Con 136 m² cubiertos y 194 m² totales, cuenta con 3 dormitorios, 2 baños y 2 cocheras. ✨ Ambientes cómodos y funcionales, ideal para quienes buscan vivir en una zona tranquila pero con excelente conectividad. 💡 Una opción atractiva por ubicación, metraje y precio, en uno de los barrios más buscados de Zona Norte.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757858/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_115168752516735206458998640478291137690586267562319319832419662992457272522631_hl0fru.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757811/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_82704707912770823867327314658314156317591265675597736075775574553837453262036_hzhrbw.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757809/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_54989596950059872634094612739227775568290692822825528386833759929293940125109_eeu6ej.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757848/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_8329501278226068298021271356051926636675565368079658125326449341662663197804_aokfvo.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757853/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_55723520445349771099337093065243096605780584011510599059163135552595867551514_truxnm.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757851/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_12673505535864372776905259276010128406759172081675819254753649034986074302924_zujn2f.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757849/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_65737970891342514687753124383682605242865474867027745537510789627068032260019_cu0htj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757851/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_77129361772097939108101769636454452065706347785127799544890767175134893053709_rb0h4q.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757850/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_40591551878063594723032414062561446706624589447020851152196484514299040808803_kaau3t.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757848/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_57289375100324355530054646770414995493327458739609839384214791983691344077807_uv2wbs.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757812/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_41393510010280612663726781731081373722562019634923969822286745208366338750757_kslfrm.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757809/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_35647860806878246003043053974746988752631839426434194189466586848596098143722_dbc6ya.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757810/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_74902448391868393403506931258689734957941542708359131205964686044284928193025_xmwg27.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757809/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_97325949559592394289218403023456497657594162759455393297495975285645521617663_ye6cn6.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757809/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_32612660880707072424774348304219865744557219626322369008063547965067219105941_khxzro.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757809/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_85653161817434218420443826931607733666295364516370702960029860678204864706444_fzrccs.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757808/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_60001297355487095682249358118020779740289010801763570670323603662280478983578_kh6gln.jpg"
+        ]
+    },
+    {
+        "id": "casa-los-troncos-pilar",
+        "titulo": "Casa en Barrio Los Troncos, Pilar",
+        "precio": "190.000",
+        "ubicacion": "Barrio Los Troncos",
+        "ambientes": "4",
+        "tipo": "Casa",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3289.098626885205!2d-58.93012332517115!3d-34.47499377299998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb0c5e6a7b8a5%3A0x7c8c6e9b8c4b8c4b!2sLos%20Troncos%20Pilar%2C%20B1629%20Pilar%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1749825193437!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "3 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "2 baños", "tipo": "baños" },
+            { "nombre": "4 Cocheras", "tipo": "cochera" },
+            { "nombre": "182.16 m² totales", "tipo": "superficie" },
+            { "nombre": "182 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "🏡 Casa en venta en el Barrio Los Troncos, Pilar, una zona residencial tranquila y rodeada de verde. Con 182 m² cubiertos sobre lote propio, cuenta con 3 dormitorios, jardín, pileta y espacio para 4 autos. 🌿 Ideal para familias que buscan comodidad, espacios amplios y buena conexión con accesos principales. Una excelente oportunidad de vivir en un entorno natural con todo el confort.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757855/PROPIEDADES/CASA%20BARRIO%20LOS%20TRONCOS%20PILAR/6421162_51749087062475009625442917415696553766435151234912384151935755189600497934766_ixrkjx.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757635/PROPIEDADES/CASA%20BARRIO%20LOS%20TRONCOS%20PILAR/6421162_14326255812858613506527267249020242669117442996917242681889791737608319795422_gaw6md.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757633/PROPIEDADES/CASA%20BARRIO%20LOS%20TRONCOS%20PILAR/6421162_69180548815186596095910803687758254676303041308247600967465158557493921984817_tf16ad.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757537/PROPIEDADES/CASA%20BARRIO%20LOS%20TRONCOS%20PILAR/6421162_92889851789908006410222774386377007749033043090935209767021584095795137283717_owprtb.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757486/PROPIEDADES/CASA%20BARRIO%20LOS%20TRONCOS%20PILAR/6421162_111219370086965656764183465471793942800189178315939663423556560194484917748101_vkbo78.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757322/PROPIEDADES/CASA%20BARRIO%20LOS%20TRONCOS%20PILAR/6421162_97838444268948875293897825245465629111460016646273240169046895346083826674988_mwtz7f.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757300/PROPIEDADES/CASA%20BARRIO%20LOS%20TRONCOS%20PILAR/6421162_2203214199860100399667324982363666515504924449593823243448964942903136443252_dicuvx.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757299/PROPIEDADES/CASA%20BARRIO%20LOS%20TRONCOS%20PILAR/6421162_25376869317819455341122004812995843612107672923172944702965620877191986234589_x3bi6x.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757273/PROPIEDADES/CASA%20BARRIO%20LOS%20TRONCOS%20PILAR/6421162_71540193798853127067854725488602424855030109662300410688362991273187571751901_muk5we.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757271/PROPIEDADES/CASA%20BARRIO%20LOS%20TRONCOS%20PILAR/6421162_53715828260778153128886626935278589234938522642040917135754365375668489485819_stbpy4.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757269/PROPIEDADES/CASA%20BARRIO%20LOS%20TRONCOS%20PILAR/6421162_17023519084365821087263005890106716268620410872768062476415466131460104709592_bh56pm.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757269/PROPIEDADES/CASA%20BARRIO%20LOS%20TRONCOS%20PILAR/6421162_57210572905339940330504940554122461340142410789680625866905028505136783859711_deqvyz.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757267/PROPIEDADES/CASA%20BARRIO%20LOS%20TRONCOS%20PILAR/6421162_109305985365211393120743581618750146102845500066936828349841748405723199759557_utwjky.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757158/PROPIEDADES/CASA%20BARRIO%20LOS%20TRONCOS%20PILAR/6421162_92892373187781055324145698718046566343922819256034605555628272365741381869319_jbqbqh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757158/PROPIEDADES/CASA%20BARRIO%20LOS%20TRONCOS%20PILAR/6421162_61084570360890544275062484481306092088250728964747118677387066838281798684262_jnsdwg.jpg"
+        ]
+    },
+    {
+        "id": "casa-haras-santa-maria-escobar",
+        "titulo": "Casa 5 ambientes en Haras Santa María, Escobar",
+        "precio": "400.000",
+        "ubicacion": "Haras Santa María, lote 109",
+        "ambientes": "5",
+        "tipo": "Casa",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3294.378780639891!2d-58.85355792517841!3d-34.34083677304964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bb63cb0445d751%3A0x6846f48eb807f170!2sHaras%20Santa%20Mar%C3%ADa!5e0!3m2!1ses!2sar!4v1749831553847!5m2!1ses!2sar",
+        "caracteristicas": [
+            { "nombre": "4 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "3 baños", "tipo": "baños" },
+            { "nombre": "2 Cocheras", "tipo": "cochera" },
+            { "nombre": "307,53 m² totales", "tipo": "superficie" },
+            { "nombre": "204 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "🏡 Casa 5 ambientes en venta en el exclusivo barrio cerrado Haras Santa María, Escobar — lote 109. Desarrollada en una planta con 204 m² cubiertos y un total de 307 m² construidos, esta propiedad ofrece 4 dormitorios, 3 baños, amplio jardín con pileta y 2 cocheras cubiertas. Una casa luminosa, funcional y con detalles de categoría, ideal para quienes buscan calidad de vida, seguridad y contacto con la naturaleza. El barrio cuenta con amenities de primer nivel: canchas, club house, seguridad 24 hs, entre otros.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1749831841/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_67407305012600247183050457660731127763394125204318097836184963757435494222058_f8xdiw.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831850/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_84859587715300207286857170713275819294861707442297841097551999554279541483922_unlf0i.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831842/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_13700647059696273885930526590275497183956814517704469571325571499921895225703_a5tkjs.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831841/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_109977421565375004763826893635836282679841429718522931723245121242153749543095_dsibhv.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831854/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_66006206119287914858832219270911372884089596984216479907420221980533421160465_odt8s1.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831842/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_31726309710493986899017085426885730072582694266061119618873024219955195667875_uvhf70.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831843/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_114200889236274323212968719418559667369521820859028674324955140532158385361381_eoyisd.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831844/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_54259295723566990333516893621906721059417384274473557935192641630952727249564_snsvm0.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831845/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_57127180436445354839139613288732983943186766838147006708548961050081151075330_lgznva.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831846/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_73306024323925932622416612707711354646063851761785070504059484493762023205204_bsj8oh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831847/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_70557103037681426693485900685165716947724819863148856701186561636273980853783_jhfr9p.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831848/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_109410723978906371181023559471201367497954375828351250032695669116258627937224_wy8jiy.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831849/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_57358831046278554841119306653425197708823243664205726293019184518966701178380_upudjb.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831853/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_110793795892984118892460113053278913304009001661599143250317928452181824794194_yxwgeu.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831852/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_81867731277586092657106834572818145675727809780955227681248033704536977712945_ceewxa.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831853/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_92088283760410447704652115109977431627077987771715822823479513305898126165375_ceparf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831856/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_35757805084195940529944250798911056063321974247603174626064437337726659232057_obgu0z.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831855/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_84392039972088653714325692774241416804364345635017887800814468640589787082385_b5nvfk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831858/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_29396859487440258946743045299087702275475260936387170010951014556582605031386_zuhsio.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831857/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_23336885272893993616350240894559705481760241383703880837404903478571581070987_fi6awy.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831860/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_73516265959457970548265637757528903287547852763978757652875713809333949816564_yytdua.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831861/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_48119080495399877708165419871537843801008828551298596572804576607579065970696_oaldrs.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749831862/PROPIEDADES/CASA%20EN%20HARAS%20SANTA%20MARIA%20ESCOBAR%20LOTE%20109/6943229_110154917176035088286473545452074716638830065937406266797461899902175386426680_suacyh.jpg"
+        ]
+    },
+    {
+        "id": "ph-olivos-miguel-cane",
+        "titulo": "PH 4 ambientes en Olivos con amenities",
+        "precio": "230.000",
+        "ubicacion": "Miguel Cane al 4200",
+        "ambientes": "4",
+        "tipo": "PH",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3289.0859511305443!2d-58.538238325171136!3d-34.47534377300063!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb016c1b6bf1d%3A0x2e9ff176d7ef6c26!2sMiguel%20Cane%204200%2C%20B1636%20Olivos%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1749825193437!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "3 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "1 Cochera", "tipo": "cochera" },
+            { "nombre": "111 m² totales", "tipo": "superficie" },
+            { "nombre": "105 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Parrilla", "tipo": "parrilla" },
+            { "nombre": "Balcón", "tipo": "balcon" }
+        ],
+        "descripcion": "En una tranquila zona residencial de Olivos, este hermoso PH de 4 ambientes combina la comodidad de una casa con los beneficios de un complejo con amenities. La propiedad se distribuye de manera funcional para aprovechar al máximo cada espacio. Dispone de 3 dormitorios, 1 baño completo, cocina integrada, y living-comedor con salida al balcón. Además, cuenta con cochera propia, parrilla, y un balcón ideal para disfrutar al aire libre. El complejo ofrece amenities que agregan valor y calidad de vida.📍 Excelente acceso a avenidas principales, medios de transporte, colegios y comercios.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1749851768/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/87539231280136538586249902600654589264611839355901386126916652477348105567188_q9f4yw.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851766/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/27776582416870124089105069724836023273286277908575751747079436298275193626056_tomfm1.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851758/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/26639198705901107944271476339578112229778013696341913753223845055429982417302_st40o9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851774/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/97023641480685389815022217865503980214938847706056828880878555469685827516830_opgmfj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851777/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/85976608687123331658516945249051420489450736981259843583310732387705637498427_m09uan.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851759/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/74027478099450147763974964833937133562858532406360654700490357302844227947275_vinq9g.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851771/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/36138917254448603093167368521516919246392282042400205328359205101292610121164_fv9x95.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851762/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/82948355738960157728409295920110418027317000237867032786779141693136721379518_w787wx.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851776/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/70728741503019165857939595450299545813437938795701112749103435461081718089825_mwu02k.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851760/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/43762673454922152828451156912349664134901669543862805461104058383656509479552_vt4esg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851759/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/46927192668419450512279339391626175366878472126153499095388904284837471062032_g8dhax.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851772/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/85379450020116737813845122065732845427815431572713904044149405849884129502177_pnz4ai.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851767/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/115459966620418322870883770767801666304694726531559612503586454368546731693261_gdyfj7.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851775/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/35382029548838713948141996526161448895134101809145238724025480186800174936497_j2rq2l.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851764/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/43582234455121022469111225898763350366328133132734183027108394385885356143951_ryluye.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851763/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/24907615639583955149673393437819417153406926399730643498192231539705040477043_zd96gp.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851772/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/108497510715554098358442941118325053199112113421644555951937030405655019586213_p6dr8c.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851765/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/110304806148285435286366458326979234533083475014403433873875216641980796670003_sa9d95.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749851761/PROPIEDADES/PH%20EN%20OLIVOS%20M.Cane%20al%204200/1028036066101849050985977126592130709336475497280178909507955039862101525003_nnnnwy.jpg"
+        ]
+    },
+    {
+        "id": "duplex-olivos-pacheco",
+        "titulo": "Duplex 4 ambientes, patio, cochera en Olivos",
+        "precio": "198.000",
+        "ubicacion": "Pacheco al 3900, Olivos",
+        "ambientes": "4",
+        "tipo": "PH",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3287.9085366166337!2d-58.507637324121305!3d-34.50520297298972!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb11cf0c533c5%3A0xb94722b15c8acb69!2sGral.%20Pacheco%203900%2C%20B1636BDL%20Olivos%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1749942932255!5m2!1ses!2sar",
+        "caracteristicas": [
+            { "nombre": "2 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "1 Cochera", "tipo": "cochera" },
+            { "nombre": "92 m² totales", "tipo": "superficie" },
+            { "nombre": "88 m² cubiertos", "tipo": "superficieCubierta" }
+        ],
+        "descripcion": "🏡 Dúplex 4 ambientes moderno y funcional sobre 📍 Pacheco al 3900, ofrece la comodidad de una casa con patio propio 🌿 y cochera 🚗, en una de las zonas más tranquilas de Olivos. Cuenta con 2 dormitorios 🛏️, baño completo 🛁, cocina independiente 🍽️ y 92 m² totales 📐 muy bien distribuidos. Ideal para quienes buscan vivir cerca de todas las comodidades, sin renunciar a la tranquilidad.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757804/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/82920796300515680247207643790055247463171467723896349945568149760186433477120_duyybo.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757780/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/104422429273355734709851848066793741325462599325355379369533385244841787011308_f9ietl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757782/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/40330419893960339014226332578711726104140840814899637358721572240427564202875_iyas7r.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757779/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/57455568859683993786944657899508548153695932981689452818861809499632466836212_wqvhvf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757779/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/1056836939476089542517388501144398994590161253789709796862999312755321724477_yzo8xb.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757780/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/62369310733772819329228373204207330082142573581301643472118224051437568291624_wqf8lg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757783/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/59233617354641784975742375953904361844720664967108828830546847119512896183229_p1m0nx.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757779/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/61518656854784050915627931974286005881234739711739326369952521667083108487159_twig5b.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757782/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/96301491267659196370144538441909909070622360538294338815010821207386342834378_emncq6.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757802/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/54847269337563600737874090085134291966817510513731558661907180326716759366371_ovkxfj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757784/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/25400211696388272318107047479668514966660071522120825918802667287042763078398_n3k3tu.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757785/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/37865898491208836588453087809337381151451370746785930120251206741153527176096_jlzljb.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757784/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/113092760140375103149741045688688502591729382377977848022664327837727306291788_asl1as.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757783/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/28730853024181471016144296221790620982545633492160515618633615240874264149257_xhypdy.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757326/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/107156515453226036684445786463861750759938380695594992242404359611716188172701_yhbsix.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757801/PROPIEDADES/DUPLEX%20OLIVOS%20Pacheco%20al%203900/2566529118909305244438241028836956879778157948923588538771482507939800008201_ckweth.jpg"
+        ]
+    },
+    {
+        "id": "oficina-7-ambientes-munro",
+        "titulo": "Oficina 7 amb. en Munro",
+        "precio": "295.000",
+        "ubicacion": "Echeverría al 2100, Munro",
+        "ambientes": "7",
+        "tipo": "Oficina",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3287.055158651968!2d-58.51197892412036!3d-34.526830472981985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb0d7cd61c6d1%3A0x607b54f6b85127cc!2sEsteban%20Echeverria%202172%2C%20B1605DSD%20Munro%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1749949441691!5m2!1ses!2sar",
+        "caracteristicas": [
+            { "nombre": "7 ambientes", "tipo": "ambientesSeparados" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "3 Cocheras", "tipo": "cochera" },
+            { "nombre": "315 m² totales", "tipo": "superficie" },
+            { "nombre": "250 m² cubiertos", "tipo": "superficieCubierta" }
+
+        ],
+        "descripcion": "Excelente oportunidad, esta oficina frece 7 espacios de trabajo independientes 🧑‍💼, baño, 3 cocheras 🚗 y un total de 315 m² 📐, con una distribución ideal para equipos grandes o atención al público. Ubicación estratégica, a metros de arterias principales y medios de transporte. Ideal para empresas que buscan un espacio amplio y funcional en una zona de alto tránsito comercial. Posibilidad de adaptar los espacios según las necesidades del negocio.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757856/PROPIEDADES/OFICINA%20EN%20OLIVOS%20ECHEVERRI%CC%81A%20AL%202100/41123782344154999175165641825212662536761006090065814770632280991639593841746_ymufzd.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757803/PROPIEDADES/OFICINA%20EN%20OLIVOS%20ECHEVERRI%CC%81A%20AL%202100/100824991021978382831686572036949969174320288909817637667966294874126900413860_dtvlp6.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757805/PROPIEDADES/OFICINA%20EN%20OLIVOS%20ECHEVERRI%CC%81A%20AL%202100/21057998957178812787609385978034227789190431211085609469123278299561355823595_jz2etr.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757804/PROPIEDADES/OFICINA%20EN%20OLIVOS%20ECHEVERRI%CC%81A%20AL%202100/62458951720608427501430922565660962929529093533882101625739587142638172860445_yjwwyu.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757805/PROPIEDADES/OFICINA%20EN%20OLIVOS%20ECHEVERRI%CC%81A%20AL%202100/13142438211885251931257927346760495797236010089941947366256954181328389349380_q50vpy.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757803/PROPIEDADES/OFICINA%20EN%20OLIVOS%20ECHEVERRI%CC%81A%20AL%202100/84194344291047484384112391462628455828889466343150808986275936220472324126411_auyz5v.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757802/PROPIEDADES/OFICINA%20EN%20OLIVOS%20ECHEVERRI%CC%81A%20AL%202100/108832898857396777867734196221808080094884073077093936864421917050163202495316_gwrnpu.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757821/PROPIEDADES/OFICINA%20EN%20OLIVOS%20ECHEVERRI%CC%81A%20AL%202100/58306182034831616067989679859851356539012414613084957036573988051134952717474_wskmuq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757788/PROPIEDADES/OFICINA%20EN%20OLIVOS%20ECHEVERRI%CC%81A%20AL%202100/80068303413042768932592938889643871511068132869853156740462514917198402532891_1_mwbavg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757388/PROPIEDADES/OFICINA%20EN%20OLIVOS%20ECHEVERRI%CC%81A%20AL%202100/56756468423871634155821726012673900928018276934810222520976299145105253792913_zeujey.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757387/PROPIEDADES/OFICINA%20EN%20OLIVOS%20ECHEVERRI%CC%81A%20AL%202100/29927820407590620016666276967555063860160366731074463033572312326892798347905_zz5vyl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757387/PROPIEDADES/OFICINA%20EN%20OLIVOS%20ECHEVERRI%CC%81A%20AL%202100/19614113011069274462130534975383334468165951430890907061663939319622205060162_kubpj2.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757387/PROPIEDADES/OFICINA%20EN%20OLIVOS%20ECHEVERRI%CC%81A%20AL%202100/36330575508291565223628890036313937180641619978934721864330317320789530079285_r7pzgd.jpg"
+        ]
+    },
+    {
+        "id": "depto-3-amb-juncal",
+        "titulo": "Departamento 3 amb-2 cocheras cubiertas-balcon-balcon en Juncal",
+        "precio": "169.000",
+        "ubicacion": "Juncal al 300",
+        "ambientes": "3",
+        "tipo": "Departamento",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3288.5547509258868!2d-58.50674479999999!3d-34.4888178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDI5JzE5LjciUyA1OMKwMzAnMjQuMyJX!5e0!3m2!1ses!2sar!4v1749961667786!5m2!1ses!2sar",
+        "caracteristicas": [
+            { "nombre": "3 ambientes", "tipo": "ambientesSeparados" },
+            { "nombre": "2 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "2 Cocheras", "tipo": "cochera" },
+            { "nombre": "62 m² cubiertos", "tipo": "superficieCubierta" }
+        ],
+        "descripcion": "Funcional, luminoso y bien ubicado. Este cómodo departamento cuenta con 2 dormitorios, balcón al frente y 2 cocheras cubiertas, una característica poco habitual en la zona. Con 62 m² cubiertos, es ideal para quienes valoran el confort y la practicidad sin resignar ubicación. Ubicado en Juncal al 300, en un entorno residencial, cerca de todo.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1749961415/PROPIEDADES/DEPARTAMENTO%20EN%20JUNCAL%20300/63930025078651753017688983904358089957436014812212918354083508036829051912557_rfgboq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749961420/PROPIEDADES/DEPARTAMENTO%20EN%20JUNCAL%20300/108284204521026736604080387476941741949975156819857095429701500392602109064604_ovjhm1.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749961413/PROPIEDADES/DEPARTAMENTO%20EN%20JUNCAL%20300/115763294481947405850518717966674531749408990852776008557400327932320627330341_hr7gza.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749961416/PROPIEDADES/DEPARTAMENTO%20EN%20JUNCAL%20300/37697016366723455687861830675449859927722600644840823599034015870628502704044_mqt140.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749961422/PROPIEDADES/DEPARTAMENTO%20EN%20JUNCAL%20300/40170728369101221730452147269482671770945194319848187763688873875845101572398_a8gzbw.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749961424/PROPIEDADES/DEPARTAMENTO%20EN%20JUNCAL%20300/96098363060282016885298521998299864793765213926026061554108693231172079061921_e0n8ct.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749961426/PROPIEDADES/DEPARTAMENTO%20EN%20JUNCAL%20300/83234991845023229760414955736816379546039795765869003794764549298048890623820_n1fgv3.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749961434/PROPIEDADES/DEPARTAMENTO%20EN%20JUNCAL%20300/34225184074120541651691591358183897970177731493069948512984562956042921985984_by8qen.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749961428/PROPIEDADES/DEPARTAMENTO%20EN%20JUNCAL%20300/64131832375352263435564794957602565805504332371141449493192389578379640703843_cvzbac.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749961436/PROPIEDADES/DEPARTAMENTO%20EN%20JUNCAL%20300/70079985184195731896203449960345131534532976970115942783190963327516693500714_o0bn4e.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749961432/PROPIEDADES/DEPARTAMENTO%20EN%20JUNCAL%20300/104146892584888181584492747911674825520202971041127513239630498294632603484213_pfblja.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749961440/PROPIEDADES/DEPARTAMENTO%20EN%20JUNCAL%20300/114721973458558642400491697263779692297932945316253746579388032591217025002733_kik6vz.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749961430/PROPIEDADES/DEPARTAMENTO%20EN%20JUNCAL%20300/81839600968830862922073168323533035618106105171760957434395329170804491688541_kkhlvr.jpg"
+        ]
+    },
+    {
+        "id": "casa-barrio-las-orquideas",
+        "titulo": "Casa 4 amb. con piscina en Barrio Las Orquídeas, Pilar",
+        "precio": "240.000",
+        "ubicacion": "Rio de Janeiro 2, Las Orquídeas, Pilar",
+        "ambientes": "4",
+        "tipo": "Casa",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3289.92748905592!2d-58.928270899999994!3d-34.4539885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDI3JzE0LjQiUyA1OMKwNTUnNDEuOCJX!5e0!3m2!1ses!2sar!4v1750020463183!5m2!1ses!2sar",
+        "caracteristicas": [
+            { "nombre": "4 ambientes", "tipo": "ambientesSeparados" },
+            { "nombre": "3 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "2 baños", "tipo": "baños" },
+            { "nombre": "3 Cocheras", "tipo": "cochera" },
+            { "nombre": "210 m² totales", "tipo": "superficie" },
+            { "nombre": "170 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "En el tranquilo y familiar Barrio Las Orquídeas, en Pilar, te espera esta luminosa 🏡 casa de 4 ambientes con jardín y pileta 🏊, ideal para quienes buscan comodidad y naturaleza sin alejarse de todo. Cuenta con 3 dormitorios 🛏️, 2 baños 🚿, 170 m² cubiertos sobre un lote de 210 m² totales 📐, espacio para 3 autos 🚗 y ambientes amplios pensados para disfrutar en familia. Ubicada sobre Río de Janeiro 2. ¡Una propiedad lista para mudarse y empezar a disfrutar desde el primer día! 🌳✨",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757858/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/43747705362514796160400478076119295044267805594409228907151716994110162903964_fzeaik.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757863/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/74042657016991548559325363491242904184144699224586494217404202542253258336275_xkk1if.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757859/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/80714918537492415397405241590519283475996683338260563766799531417362851421956_cw1pt1.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757857/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/53495347356586499199858877846260626891202804616640311466759273858529858365027_uyhdlk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757797/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/2576404979778286873976530113388349580067187131504061878027571766433801348811_tsl6et.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757485/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/24004293547411639013391904460417083496602644140986200316877224828806991701874_dayvye.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757485/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/73676572133683161076496672317451351197693257256487699418110036376479533147043_wghcdf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757485/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/61149107594181104446375880438045614666751589906880403071634722066689595940447_bbf3mm.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757486/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/38545060166077478909872456080358117000879609204541858520396259499060121115019_oqeqdo.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757487/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/75691816826162043083183230621232655846034146580061680020919419822872996377742_fhdkec.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757484/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/90998787153125183769639877654848163939363178790977955483660348534271457580626_ucm21r.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757484/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/45479296672974428597318255555997845616767331833881272710876518928854180289777_k8ptia.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757484/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/106280402342514795317268323708345039266671800201285519327406980348599645835705_vnirnp.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757483/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/102440721581156167828803578877834732910796307015622158041304491016353733861770_a6dgra.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757483/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/47962562750758095786705986516329922609212169941102671410602603542268604725074_opvpcg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757483/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/92846868057762672198779586540393099710608714429254659080696128093968391153921_rynaix.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757484/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/39443732296994504403945394190565007074616926928547799722193290153755631703143_fvhkzd.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757482/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/95941983534684129712420843776579676071115498801851146023772386209183438224324_eb3lej.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757481/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/72659800217722304234870107174233643513920754894243627213652099682155592175020_rygesg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757481/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/59252102211699444987862990822069912901891623316728423143120970060336693396333_eq4ttm.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757267/PROPIEDADES/CASA%20PILAR%20Las%20Orqui%CC%81deas/70744308371990472191972063866321525053016142211773779629946517256011594146973_sdtu6z.jpg"
+        ]
+    },
+    {
+        "id": "ph-manzanares-chico",
+        "titulo": "PH 3 amb. en Barrio Manzanares Chico, Pilar",
+        "precio": "105.000",
+        "ubicacion": "Av. Bartolomé Mitre 400",
+        "ambientes": "3",
+        "tipo": "PH",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3290.2873560262083!2d-58.981841300000006!3d-34.4448528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDI2JzQxLjUiUyA1OMKwNTgnNTQuNiJX!5e0!3m2!1ses!2sar!4v1750028989972!5m2!1ses!2sar",
+        "caracteristicas": [
+            { "nombre": "2 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "1 Cochera", "tipo": "cochera" },
+            { "nombre": "84 m² totales", "tipo": "superficie" },
+            { "nombre": "73 m² cubiertos", "tipo": "superficieCubierta" }
+        ],
+        "descripcion": "Ubicado en el barrio cerrado Manzanares Chico de Pilar, este PH de 3 ambientes 🏡 es una excelente oportunidad para quienes buscan seguridad, comodidad y entorno verde 🌿. Cuenta con 2 dormitorios 🛏️, 1 baño completo 🚿, cochera propia 🚗. Su diseño funcional y luminoso lo convierte en una opción ideal tanto para vivir como para invertir. ¡Un hogar tranquilo a solo minutos del centro de Pilar!",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757811/PROPIEDADES/PH%20MANZANARES%20CHICO%20PILAR%20Av.%20Bartolome%CC%81%20Mitre%20al%20400/10153763776929411455004960678256224137158332136935744284660045179908231226874_wtmk6c.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757863/PROPIEDADES/PH%20MANZANARES%20CHICO%20PILAR%20Av.%20Bartolome%CC%81%20Mitre%20al%20400/42748498176826339383464592246821221336333152764333076240844868873232321824249_n45yhr.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757850/PROPIEDADES/PH%20MANZANARES%20CHICO%20PILAR%20Av.%20Bartolome%CC%81%20Mitre%20al%20400/42793218969973409073220427353010164062497067926334001675511819634170380546070_qcxzdw.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757849/PROPIEDADES/PH%20MANZANARES%20CHICO%20PILAR%20Av.%20Bartolome%CC%81%20Mitre%20al%20400/8563079665747082591146705939649586787240652291966236343890972200542788037046_l5jtzl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757793/PROPIEDADES/PH%20MANZANARES%20CHICO%20PILAR%20Av.%20Bartolome%CC%81%20Mitre%20al%20400/24981439953702963986647837074480597138461514222606012603105719159280193868843_z2cxvs.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757793/PROPIEDADES/PH%20MANZANARES%20CHICO%20PILAR%20Av.%20Bartolome%CC%81%20Mitre%20al%20400/45467140477560631934174795959587773456301026717492710737127871114782353472079_sfgjit.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757851/PROPIEDADES/PH%20MANZANARES%20CHICO%20PILAR%20Av.%20Bartolome%CC%81%20Mitre%20al%20400/1748033590099807805048982808186013914615559405432381277996807141435816809001_bcbsat.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757792/PROPIEDADES/PH%20MANZANARES%20CHICO%20PILAR%20Av.%20Bartolome%CC%81%20Mitre%20al%20400/28380863960936608350677905297253896500283061996880501964369512145374876055182_ypzxxz.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757852/PROPIEDADES/PH%20MANZANARES%20CHICO%20PILAR%20Av.%20Bartolome%CC%81%20Mitre%20al%20400/39799285673704323431144411713340145436808841828429523435829171793554886491450_atw7h9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757852/PROPIEDADES/PH%20MANZANARES%20CHICO%20PILAR%20Av.%20Bartolome%CC%81%20Mitre%20al%20400/67517056430388259918958717335802441704340750047445090035842485144680298987379_pzuhvq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757852/PROPIEDADES/PH%20MANZANARES%20CHICO%20PILAR%20Av.%20Bartolome%CC%81%20Mitre%20al%20400/86170008092540760812186767024012936088573843025816095450202938508711223566491_vywyab.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757854/PROPIEDADES/PH%20MANZANARES%20CHICO%20PILAR%20Av.%20Bartolome%CC%81%20Mitre%20al%20400/53858028421192871832459658271192956461455924092906832264832429999678640686270_f1ai8m.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757859/PROPIEDADES/PH%20MANZANARES%20CHICO%20PILAR%20Av.%20Bartolome%CC%81%20Mitre%20al%20400/57127748385959582015852685675757192498213886756013276204301934013223106233155_xfabt7.jpg"
+        ]
+    },
+    {
+        "id": "depto-3amb-san-fernando",
+        "titulo": "Departamento 3 amb. en Victoria, San Fernando",
+        "precio": "132.000",
+        "ubicacion": "Simón de Iriondo al 1300",
+        "ambientes": "3",
+        "tipo": "Departamento",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3289.9150596110153!2d-58.542188900000006!3d-34.454304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDI3JzE1LjUiUyA1OMKwMzInMzEuOSJX!5e0!3m2!1ses!2sar!4v1750130258965!5m2!1ses!2sar",
+        "caracteristicas": [
+            { "nombre": "3 ambientes", "tipo": "ambientesSeparados" },
+            { "nombre": "2 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "1 Cochera", "tipo": "cochera" },
+            { "nombre": "56.3 m² totales", "tipo": "superficie" },
+            { "nombre": "53 m² cubiertos", "tipo": "superficieCubierta" }
+        ],
+        "descripcion": "Moderno y funcional en el corazón de Victoria, San Fernando 🏙️ Este departamento de 3 ambientes se ubica sobre Simón de Iriondo al 1300, y ofrece 2 cómodos dormitorios, 1 baño, cochera propia 🚗 y una superficie total de 56,3 m². Ideal para quienes buscan una propiedad práctica, bien ubicada y lista para mudarse. Consultanos y coordinamos una visita 📲",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1750132340/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_84033049133227679247415553098975990101773733489572738287841779444543913841475_arpha6.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132284/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_82938935679742350398099492599760855951149037797114055149214628109346309469016_lgb9yf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132350/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_63159152104001292600439408148005030150657129733395586965031771275887481234231_b0chdf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132311/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_113374348918921126809223545622411191579899047527518878206293092281010058044376_cbrygu.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132345/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_28483932887310425690476325018508564633386056761564489224604926962434589859964_ftigsn.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132352/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_59493702389840230060420217543499826415770736146600868768995271788349724534151_ymxvzo.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132347/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_37837975515736437127291955523983661298776540876076349197702311429378386279309_tpfgwl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132341/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_81068381045535462513622788362585156900010065628561892624632745386529780530019_zd07zq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132337/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_107043092641019661411483717016516512196369090374966613474077474717375062239784_jde0x2.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132333/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_52079164731656973597047499422990861182113259845442170087575231477166915749166_f2c6yn.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132332/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_16268233088523413684532805854575777861801175224591922726922230278661572831473_jkbefl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132325/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_81003990749880358099944499180598046232245343002977485056969081495057159052015_qejtwc.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132320/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_50132855310304059975279563969890435186429989641806049807941193952154711702302_lsjqrd.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132317/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_74188552477931534637939097269562143885101637634352468044810080863464275976409_cpdjs8.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132321/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_73253747762270671765237698911358567550767893921780161478156203526039555486732_e0ar7w.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132330/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_13668244477278232218086847790324081389343826964711432817253314403579673921217_o6ooxb.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132316/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_93332157393148336759534525173223548401039295786386201001942125044830552244018_cdmhan.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132313/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_108275050211885148260911529611203255239090722656878600068972358367002493692228_ksyziv.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132307/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_111533111586176138421368455062307169346756972008684908368137390404665385297002_vrkehl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132305/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_35891161726556127818069765244667319539081404232815413041207146065170758146353_hmptpq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132310/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_113000688762931927777420914853635869770705772294357253498582455104753272470356_vm0ror.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132303/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_8391266457255444897502229641221133469614291847097046261776052614549882246508_b8dol8.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132291/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_28405704650471959570282162830985096225409757398059382374783887522902538968954_db2w0i.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132287/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_83299364537620587299259500052270889035330638104315999983288507402859456763364_uqsvlq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750132285/PROPIEDADES/DEPARTAMENTO%20EN%20IRIONDO%20SAN%20FERNANDO/6975745_37503158246596729288594914968629573551970555333962101733229833104253889222623_x3eoxl.jpg"
+        ]
+    },
+    {
+        "id": "",
+        "titulo": "",
+        "precio": "",
+        "ubicacion": "",
+        "ambientes": "",
+        "tipo": "Casa",
+        "operacion": "",
+        "mapa": "",
+        "caracteristicas": [
+            { "nombre": " dormitorios", "tipo": "dormitorios" },
+            { "nombre": " baños", "tipo": "baños" },
+            { "nombre": "Cochera", "tipo": "cochera" },
+            { "nombre": " m² totales", "tipo": "superficie" },
+            { "nombre": " m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "",
+        "imagenes": [
+            "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+        ]
+    },
+    {
+        "id": "",
+        "titulo": "",
+        "precio": "",
+        "ubicacion": "",
+        "ambientes": "",
+        "tipo": "Casa",
+        "operacion": "",
+        "mapa": "",
+        "caracteristicas": [
+            { "nombre": " dormitorios", "tipo": "dormitorios" },
+            { "nombre": " baños", "tipo": "baños" },
+            { "nombre": "Cochera", "tipo": "cochera" },
+            { "nombre": " m² totales", "tipo": "superficie" },
+            { "nombre": " m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "",
+        "imagenes": [
+            "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+        ]
+    },
+    {
+        "id": "",
+        "titulo": "",
+        "precio": "",
+        "ubicacion": "",
+        "ambientes": "",
+        "tipo": "Casa",
+        "operacion": "",
+        "mapa": "",
+        "caracteristicas": [
+            { "nombre": " dormitorios", "tipo": "dormitorios" },
+            { "nombre": " baños", "tipo": "baños" },
+            { "nombre": "Cochera", "tipo": "cochera" },
+            { "nombre": " m² totales", "tipo": "superficie" },
+            { "nombre": " m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "",
+        "imagenes": [
+            "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+        ]
+    },
+    {
+        "id": "",
+        "titulo": "",
+        "precio": "",
+        "ubicacion": "",
+        "ambientes": "",
+        "tipo": "Casa",
+        "operacion": "",
+        "mapa": "",
+        "caracteristicas": [
+            { "nombre": " dormitorios", "tipo": "dormitorios" },
+            { "nombre": " baños", "tipo": "baños" },
+            { "nombre": "Cochera", "tipo": "cochera" },
+            { "nombre": " m² totales", "tipo": "superficie" },
+            { "nombre": " m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "",
+        "imagenes": [
+            "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+        ]
+    },
+    {
+        "id": "",
+        "titulo": "",
+        "precio": "",
+        "ubicacion": "",
+        "ambientes": "",
+        "tipo": "Casa",
+        "operacion": "",
+        "mapa": "",
+        "caracteristicas": [
+            { "nombre": " dormitorios", "tipo": "dormitorios" },
+            { "nombre": " baños", "tipo": "baños" },
+            { "nombre": "Cochera", "tipo": "cochera" },
+            { "nombre": " m² totales", "tipo": "superficie" },
+            { "nombre": " m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "",
+        "imagenes": [
+            "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+        ]
+    },
+    {
+        "id": "",
+        "titulo": "",
+        "precio": "",
+        "ubicacion": "",
+        "ambientes": "",
+        "tipo": "Casa",
+        "operacion": "",
+        "mapa": "",
+        "caracteristicas": [
+            { "nombre": " dormitorios", "tipo": "dormitorios" },
+            { "nombre": " baños", "tipo": "baños" },
+            { "nombre": "Cochera", "tipo": "cochera" },
+            { "nombre": " m² totales", "tipo": "superficie" },
+            { "nombre": " m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "",
+        "imagenes": [
+            "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+        ]
+    },
+    {
+        "id": "",
+        "titulo": "",
+        "precio": "",
+        "ubicacion": "",
+        "ambientes": "",
+        "tipo": "Casa",
+        "operacion": "",
+        "mapa": "",
+        "caracteristicas": [
+            { "nombre": " dormitorios", "tipo": "dormitorios" },
+            { "nombre": " baños", "tipo": "baños" },
+            { "nombre": "Cochera", "tipo": "cochera" },
+            { "nombre": " m² totales", "tipo": "superficie" },
+            { "nombre": " m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "",
+        "imagenes": [
+            "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+        ]
+    },
+    {
+        "id": "",
+        "titulo": "",
+        "precio": "",
+        "ubicacion": "",
+        "ambientes": "",
+        "tipo": "Casa",
+        "operacion": "",
+        "mapa": "",
+        "caracteristicas": [
+            { "nombre": " dormitorios", "tipo": "dormitorios" },
+            { "nombre": " baños", "tipo": "baños" },
+            { "nombre": "Cochera", "tipo": "cochera" },
+            { "nombre": " m² totales", "tipo": "superficie" },
+            { "nombre": " m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "",
+        "imagenes": [
+            "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+        ]
+    },
+    {
+        "id": "",
+        "titulo": "",
+        "precio": "",
+        "ubicacion": "",
+        "ambientes": "",
+        "tipo": "Casa",
+        "operacion": "",
+        "mapa": "",
+        "caracteristicas": [
+            { "nombre": " dormitorios", "tipo": "dormitorios" },
+            { "nombre": " baños", "tipo": "baños" },
+            { "nombre": "Cochera", "tipo": "cochera" },
+            { "nombre": " m² totales", "tipo": "superficie" },
+            { "nombre": " m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "",
+        "imagenes": [
+            "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+        ]
+    },
+    {
+        "id": "",
+        "titulo": "",
+        "precio": "",
+        "ubicacion": "",
+        "ambientes": "",
+        "tipo": "Casa",
+        "operacion": "",
+        "mapa": "",
+        "caracteristicas": [
+            { "nombre": " dormitorios", "tipo": "dormitorios" },
+            { "nombre": " baños", "tipo": "baños" },
+            { "nombre": "Cochera", "tipo": "cochera" },
+            { "nombre": " m² totales", "tipo": "superficie" },
+            { "nombre": " m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "",
+        "imagenes": [
+            "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+        ]
+    },
+    {
+        "id": "",
+        "titulo": "",
+        "precio": "",
+        "ubicacion": "",
+        "ambientes": "",
+        "tipo": "Casa",
+        "operacion": "",
+        "mapa": "",
+        "caracteristicas": [
+            { "nombre": " dormitorios", "tipo": "dormitorios" },
+            { "nombre": " baños", "tipo": "baños" },
+            { "nombre": "Cochera", "tipo": "cochera" },
+            { "nombre": " m² totales", "tipo": "superficie" },
+            { "nombre": " m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "",
+        "imagenes": [
+            "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+        ]
+    },
+    {
+        "id": "ph-a-reciclar-talcahuano-martelli",
+        "titulo": "OPORTUNIDAD: PH 3 amb. a reciclar en Villa Martelli",
+        "precio": "65.000",
+        "ubicacion": "Talcahuano al 500",
+        "ambientes": "3",
+        "tipo": "Casa",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3286.148108776609!2d-58.5145932!3d-34.5498052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDMyJzU5LjMiUyA1OMKwMzAnNTIuNSJX!5e0!3m2!1ses!2sar!4v1750041712192!5m2!1ses!2sar",
+        "caracteristicas": [
+            { "nombre": "3 ambientes", "tipo": "ambientesSeparados" },
+            { "nombre": "2 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "148.72 m² totales", "tipo": "superficie" },
+            { "nombre": "76.36 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Patio", "tipo": "patio" }
+        ],
+        "descripcion": "OPORTUNIDAD en Villa Martelli 📍. PH de 3 ambientes a reciclar, ideal para quien busca reformar y sumar valor 🔧. Cuenta con 2 dormitorios, 1 baño, amplio patio 🌿 y una generosa superficie total de 148,72 m², de los cuales 76,36 m² son cubiertos. Ubicado sobre Talcahuano al 500, en una zona residencial con excelente acceso. A solo USD 65.000 💸, es una alternativa accesible para transformar en la casa que imaginás o en una excelente inversión 💼.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1750041585/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_12709165032968851382128480702005817985034857299444703385243674272384695045616_sx8hlq.jpg", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+        ]
+    }
+]
