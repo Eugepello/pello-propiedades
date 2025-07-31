@@ -37,6 +37,7 @@ const iconosCaracteristicas = {
   superficieCubierta: Scan,
   jardin: Leaf,
   piscina: WavesLadder,
+  quincho: Home,
   tipo: Home,
   aire: Snowflake,
   calefacción: Sun,
