@@ -1,4 +1,48 @@
 [{
+        "id": "monoambiente-a-estrenar-urquiza",
+        "titulo": "Monoambiente a estrenar en alquiler - Villa Urquiza",
+        "precioPesos": "550.000",
+        "ubicacion": "Pacheco al 3000 - 3º piso, Villa Urquiza",
+        "ambientes": "Monoambiente",
+        "tipo": "Departamento",
+        "operacion": "Alquiler",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3285.4253314991024!2d-58.4880224!3d-34.56810290000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM0JzA1LjIiUyA1OMKwMjknMTYuOSJX!5e0!3m2!1ses-419!2sar!4v1756070527196!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "Monoambiente", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "36,36 m² totales", "tipo": "superficie" },
+            { "nombre": "Orientación Este", "tipo": "orientacion" }
+        ],
+        "descripcion": "Excelente monoambiente divisible a estrenar. ¡EXPENSAS BAJAS! Ambiente completamente ventilado y luminoso, cocina con muebles completos a medida, horno y anafe eléctrico de primera marca, balcón y baño completo. SE ENTREGA CON AIRE FRÍO CALOR. Indexa trimestralmente por IPC.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/1_u1do7e.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/2_pv5isk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/3_pcj0mp.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/4_a9hrm9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/5_poiemn.jpg"
+        ]
+    },
+    {
+        "id": "local-en-florida-oeste",
+        "titulo": "Importante Local en Florida Oeste con estacionamiento estratégico",
+        "precio": "1.890.000",
+        "ubicacion": "Avenida San Martín 3460",
+        "ambientes": "",
+        "tipo": "Local",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.7102022968174!2d-58.50997702516783!3d-34.53556947297876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb6d56d042a5b%3A0xfeae20ff3029ec88!2sGral.%20Jos%C3%A9%20de%20San%20Mart%C3%ADn%203460%2C%20B1604DEQ%20Florida%20Oeste%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1749756420796!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "Estacionamiento propio +8 vehículos", "tipo": "cochera" },
+            { "nombre": "1580 m² totales", "tipo": "superficie" },
+            { "nombre": "1300 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Oficinas", "tipo": "oficina" },
+            { "nombre": "Depósito", "tipo": "deposito" },
+            { "nombre": "Baño para ambos géneros", "tipo": "baños" },
+            { "nombre": "Vestuario", "tipo": "vestuario" },
+            { "nombre": "Montacarga", "tipo": "montacarga" }
+        ],
+        "descripcion": "🏢 Importante local en venta sobre Av. San Martín 3460, Florida Oeste, con excelente visibilidad sobre arteria principal. A dos cuadras de Panamericana y una de Av. Mitre. Cuenta con 1.300 m² cubiertos, depósito, oficina, 3 baños, vestuarios, montacarga, entre otras cosas. 🚗 Se incluye en la operación el lote de enfrente de 307 m² utilizado como estacionamiento, ideal para potenciar logística, personal de empleados o atención al público. Una oportunidad única para desarrollar un polo comercial en una de las zonas más transitadas de Vicente López.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/c_crop,w_2400,h_1654/v1749915472/PROPIEDADES/SANITARIOS%20LONJEDO/Screenshot_2025-06-14_at_12.37.20_lyyusd.png", "https://res.cloudinary.com/eugepello/image/upload/v1749755487/PROPIEDADES/SANITARIOS%20LONJEDO/image00012_a2yyee.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755488/PROPIEDADES/SANITARIOS%20LONJEDO/image00011_fqizuf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755488/PROPIEDADES/SANITARIOS%20LONJEDO/image00010_ssuvzk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749752610/PROPIEDADES/SANITARIOS%20LONJEDO/DJI_20250612125631_0006_D_biz0n9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755768/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_125817_cqy19j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755775/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132026_jmzoie.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749756217/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132009_enp6mg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755778/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132106_q0wlvk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755776/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132140_jvwxkg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755773/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131922_yra64j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755778/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131934_uqymfq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755775/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131908_eunnds.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755482/PROPIEDADES/SANITARIOS%20LONJEDO/image00001_bgs5if.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755486/PROPIEDADES/SANITARIOS%20LONJEDO/image00007_azy3qq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755485/PROPIEDADES/SANITARIOS%20LONJEDO/image00005_vnipff.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755486/PROPIEDADES/SANITARIOS%20LONJEDO/image00006_jk7imh.jpg"
+        ]
+    },
+    {
         "id": "casa-ayres-del-pilar",
         "titulo": "Casa en Ayres del Pilar",
         "precio": "580.000",
@@ -34,27 +78,23 @@
         ]
     },
     {
-        "id": "local-en-florida-oeste",
-        "titulo": "Importante Local en Florida Oeste con estacionamiento estratégico",
-        "precio": "1.890.000",
-        "ubicacion": "Avenida San Martín 3460",
-        "ambientes": "",
-        "tipo": "Local",
-        "operacion": "Venta",
-        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.7102022968174!2d-58.50997702516783!3d-34.53556947297876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb6d56d042a5b%3A0xfeae20ff3029ec88!2sGral.%20Jos%C3%A9%20de%20San%20Mart%C3%ADn%203460%2C%20B1604DEQ%20Florida%20Oeste%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1749756420796!5m2!1ses-419!2sar",
+        "id": "depto-3-amb-pedro-rivera-urquiza",
+        "titulo": "Hermoso Departamento de 3 ambientes en alquiler - Villa Urquiza",
+        "precio": "800",
+        "ubicacion": "Dr. Pedro I. Rivera al 5700",
+        "ambientes": "3",
+        "tipo": "Departamento",
+        "operacion": "Alquiler",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3285.093122467517!2d-58.496219599999996!3d-34.5765102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM0JzM1LjQiUyA1OMKwMjknNDYuNCJX!5e0!3m2!1ses-419!2sar!4v1756089701301!5m2!1ses-419!2sar",
         "caracteristicas": [
-            { "nombre": "Estacionamiento propio +8 vehículos", "tipo": "cochera" },
-            { "nombre": "1580 m² totales", "tipo": "superficie" },
-            { "nombre": "1300 m² cubiertos", "tipo": "superficieCubierta" },
-            { "nombre": "Oficinas", "tipo": "oficina" },
-            { "nombre": "Depósito", "tipo": "deposito" },
-            { "nombre": "Baño para ambos géneros", "tipo": "baños" },
-            { "nombre": "Vestuario", "tipo": "vestuario" },
-            { "nombre": "Montacarga", "tipo": "montacarga" }
+            { "nombre": "2 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "52 m² totales", "tipo": "superficie" },
+            { "nombre": "52 m² cubiertos", "tipo": "superficieCubierta" }
         ],
-        "descripcion": "🏢 Importante local en venta sobre Av. San Martín 3460, Florida Oeste, con excelente visibilidad sobre arteria principal. A dos cuadras de Panamericana y una de Av. Mitre. Cuenta con 1.300 m² cubiertos, depósito, oficina, 3 baños, vestuarios, montacarga, entre otras cosas. 🚗 Se incluye en la operación el lote de enfrente de 307 m² utilizado como estacionamiento, ideal para potenciar logística, personal de empleados o atención al público. Una oportunidad única para desarrollar un polo comercial en una de las zonas más transitadas de Vicente López.",
+        "descripcion": "Excelente departamento de 3 ambientes al frente con balcón en alquiler. En muy buen estado, con tan solo 3 años de antigüedad. Distribución inteligente y espacios bien aprovechados. Ambientes completamente ventilados y luminosos. Living-comedor con cocina integrada, la cocina con muebles completos a medida, horno y anafe eléctrico de primera marca, y mesada color negro boreal. ¡Oportunidad única!",
         "imagenes": [
-            "https://res.cloudinary.com/eugepello/image/upload/c_crop,w_2400,h_1654/v1749915472/PROPIEDADES/SANITARIOS%20LONJEDO/Screenshot_2025-06-14_at_12.37.20_lyyusd.png", "https://res.cloudinary.com/eugepello/image/upload/v1749755487/PROPIEDADES/SANITARIOS%20LONJEDO/image00012_a2yyee.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755488/PROPIEDADES/SANITARIOS%20LONJEDO/image00011_fqizuf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755488/PROPIEDADES/SANITARIOS%20LONJEDO/image00010_ssuvzk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749752610/PROPIEDADES/SANITARIOS%20LONJEDO/DJI_20250612125631_0006_D_biz0n9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755768/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_125817_cqy19j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755775/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132026_jmzoie.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749756217/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132009_enp6mg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755778/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132106_q0wlvk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755776/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132140_jvwxkg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755773/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131922_yra64j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755778/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131934_uqymfq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755775/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131908_eunnds.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755482/PROPIEDADES/SANITARIOS%20LONJEDO/image00001_bgs5if.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755486/PROPIEDADES/SANITARIOS%20LONJEDO/image00007_azy3qq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755485/PROPIEDADES/SANITARIOS%20LONJEDO/image00005_vnipff.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755486/PROPIEDADES/SANITARIOS%20LONJEDO/image00006_jk7imh.jpg"
+            "https://res.cloudinary.com/eugepello/image/upload/v1756089479/PROPIEDADES/DEPTO%203%20AMB%20PEDRO%20RIVERA%20AL%205700%20VILLA%20URQUIZA/1_mwncqv.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756089479/PROPIEDADES/DEPTO%203%20AMB%20PEDRO%20RIVERA%20AL%205700%20VILLA%20URQUIZA/2_nqt1au.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756089480/PROPIEDADES/DEPTO%203%20AMB%20PEDRO%20RIVERA%20AL%205700%20VILLA%20URQUIZA/3_orgfpl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756089480/PROPIEDADES/DEPTO%203%20AMB%20PEDRO%20RIVERA%20AL%205700%20VILLA%20URQUIZA/4_ntsptp.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756089480/PROPIEDADES/DEPTO%203%20AMB%20PEDRO%20RIVERA%20AL%205700%20VILLA%20URQUIZA/5_cj7ty4.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756089481/PROPIEDADES/DEPTO%203%20AMB%20PEDRO%20RIVERA%20AL%205700%20VILLA%20URQUIZA/6_hifv7s.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756089482/PROPIEDADES/DEPTO%203%20AMB%20PEDRO%20RIVERA%20AL%205700%20VILLA%20URQUIZA/7_yj1hjs.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756089482/PROPIEDADES/DEPTO%203%20AMB%20PEDRO%20RIVERA%20AL%205700%20VILLA%20URQUIZA/8_gkqqde.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756089482/PROPIEDADES/DEPTO%203%20AMB%20PEDRO%20RIVERA%20AL%205700%20VILLA%20URQUIZA/9_k7it7a.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756089494/PROPIEDADES/DEPTO%203%20AMB%20PEDRO%20RIVERA%20AL%205700%20VILLA%20URQUIZA/10_guzgbg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756089494/PROPIEDADES/DEPTO%203%20AMB%20PEDRO%20RIVERA%20AL%205700%20VILLA%20URQUIZA/11_pfgnng.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756089495/PROPIEDADES/DEPTO%203%20AMB%20PEDRO%20RIVERA%20AL%205700%20VILLA%20URQUIZA/12_qa3cwg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756089494/PROPIEDADES/DEPTO%203%20AMB%20PEDRO%20RIVERA%20AL%205700%20VILLA%20URQUIZA/13_vrrhgh.jpg"
         ]
     },
     {
@@ -452,6 +492,27 @@
         "descripcion": "",
         "imagenes": [
             "https://res.cloudinary.com/eugepello/image/upload/v1750041585/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_12709165032968851382128480702005817985034857299444703385243674272384695045616_sx8hlq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041587/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_66847241883564366980461560971661483753753457381134080716401880177537228710147_aa18xe.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041578/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_52422354871107532546689351239295652055778495856468428888042800385259987653015_xqb76w.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041570/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_13663496785045307282386812490307301993755431495408046516729510703383717547016_zx9u6j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041569/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_102900817669573404420533105169575381437064139348613377358357546241051898858616_uf8nfx.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041575/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_101830316096784444315131788517373031881450606056163518021136313684449939229729_wyqvur.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041571/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_52461887246831576393995817686633998822820191594850435621323795163404797093290_j62rv5.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041572/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_68080554651130101762886855280649451187655655037623529454194585768534678268342_fxr3m9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041580/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_50525085843846334785439530503303504238570707912548182809355192454628799075646_el9uan.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041589/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_7460509199577043955055303555582639287444923208538031273841083479223413436426_ttlm2b.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041588/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_45876379575289045383559528541091151951157476287331608104226385457966450286996_ghweib.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041591/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_23082951333129784161158840720255120966475911666971058066563828584854759192779_nktjs5.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041596/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_97272535296582880658731165247234353693419014643009181485003839485006103983455_aa2fez.jpg"
+        ]
+    },
+    {
+        "id": "depto-2amb-villa-urquiza",
+        "titulo": "Departamento 2 Ambientes en alquiler - Villa Urquiza",
+        "precio": "700",
+        "ubicacion": "Pacheco al 3000 - 1º piso, Villa Urquiza",
+        "ambientes": "2 ambientes",
+        "tipo": "Departamento",
+        "operacion": "Alquiler",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3285.4253314991024!2d-58.4880224!3d-34.56810290000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM0JzA1LjIiUyA1OMKwMjknMTYuOSJX!5e0!3m2!1ses-419!2sar!4v1756070527196!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "1 dormitorio", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "53 m² totales", "tipo": "superficie" },
+            { "nombre": "45 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Orientación Oeste", "tipo": "orientacion" }
+        ],
+        "descripcion": "Edificio apto profesional. Muy buen departamento de 2 ambientes al frente. Ambientes completamente ventilados y luminosos. Living-comedor con cocina integrada, la cocina con muebles completos a medida, horno y anafe eléctrico de primera marca, y mesada color negro boreal. Acceso a balcón corrido. Dormitorio con placard. Baño completo. Hall de distribución con posibilidad de escritorio a medida o placard. Orienta al Oeste. Detalles de categoría. Se entrega con heladera, cortinas roller y artefactos de iluminación. ¡Se entrega todo amoblado!",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1756077268/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/1_jht2pb.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077269/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/2_t2zaj8.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077269/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/3_ptpj8a.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077269/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/4_hcmlcs.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077269/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/5_ajms8z.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077269/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/6_yfavr4.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077270/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/7_ycf68l.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077270/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/8_drptvl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077271/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/9_m6ue5i.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077271/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/10_hgksn0.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077272/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/11_plrlbt.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077272/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/12_iazqyh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077273/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/13_msngir.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077273/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/14_rspfxo.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077274/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/15_tdbytu.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077274/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/16_tzszz9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077274/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/17_aqmkoe.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077275/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/18_zjjshh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077276/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/19_oagoav.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077276/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/20_juhrwv.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077277/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/21_gnvmzg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077277/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/22_q7yt8e.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077278/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/23_jn0uko.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756077278/PROPIEDADES/DEPARTAMENTO%202%20AMB%20PACHECO%20AL%203000%20VILLA%20URQUIZA/24_v2pjjv.jpg"
         ]
     }
 ]
