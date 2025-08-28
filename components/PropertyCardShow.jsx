@@ -68,7 +68,7 @@ export default function PropertyCardShow({ propiedad }) {
       <div className="p-4">
         <h3 className="text-xl font-semibold text-[#3680ff]">{propiedad.titulo}</h3>
         <p className="text-gray-600">📍 {propiedad.ubicacion}</p>
-        {propiedad.precio ? <p className="text-lg font-bold mt-2">US$ {propiedad.precio}</p> : <p className="text-lg font-bold mt-2"> $ {propiedad.precioPesos}</p>}
+        {propiedad.precio ? <p className="text-lg font-bold mt-2">US$ {propiedad.precio}</p> : <p className="text-lg font-bold mt-2"> ARS$ {propiedad.precioPesos}</p>}
       </div>
     </div>
   );
