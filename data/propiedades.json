@@ -1,4 +1,25 @@
 [{
+        "id": "galpon-boulogne-sur-mer",
+        "titulo": "Galpón en venta en Boulogne Sur Mer",
+        "precio": "320.000",
+        "ubicacion": "Av. Bernardo Ader, Boulogne Sur Mer",
+        "ambientes": "",
+        "tipo": "Galpón",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3287.458559617203!2d-58.56315670000001!3d-34.516608399999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDMwJzU5LjgiUyA1OMKwMzMnNDcuNCJX!5e0!3m2!1ses-419!2sar!4v1757960651031!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "2 baños", "tipo": "baños" },
+            { "nombre": "267 m² totales", "tipo": "superficie" },
+            { "nombre": "267 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Oficinas", "tipo": "oficina" },
+            { "nombre": "Depósito", "tipo": "deposito" }
+        ],
+        "descripcion": "Galpón en venta en Boulogne Sur Mer, ubicado estratégicamente, con fácil acceso a principales avenidas y medios de transporte. Ideal para empresas que buscan funcionalidad y buena conectividad. Con una superficie total de 267 m², este galpón cuenta con amplia oficina administrativa, gran espacio cubierto tipo fábrica/depósito, 2 baños y persiana de ingreso apta para autos o vehículos de carga.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/1_xgwjkj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/2_qclcju.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/3_hgi2fi.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/4_ot9svq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/5_pza14o.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/6_spg5jl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/6_spg5jl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/8_x44mkz.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/9_dmrued.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/10_anrpws.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/11_onaze2.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/12_ninrnk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/13_fl14w4.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/14_na2ivf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/15_mirm0k.jpg"
+        ]
+    },
+    {
         "id": "depto-3-ambientes-blanco-encalada",
         "titulo": "Depto. 3 ambientes en alquiler - Villa Urquiza",
         "precioPesos": "1.200.000",
