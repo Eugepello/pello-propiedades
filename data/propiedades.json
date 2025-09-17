@@ -1,4 +1,25 @@
 [{
+        "id": "monoambiente-venta-estrenar-villa-urquiza",
+        "titulo": "Departamento Monoambiente en venta - Villa Urquiza",
+        "precio": "98.000",
+        "ubicacion": "Pacheco al 3000 - 4º piso, Villa Urquiza",
+        "ambientes": "Monoambiente",
+        "tipo": "Departamento",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3285.4253314991024!2d-58.4880224!3d-34.56810290000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM0JzA1LjIiUyA1OMKwMjknMTYuOSJX!5e0!3m2!1ses-419!2sar!4v1758127666341!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "Monoambiente", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "36,36 m² totales", "tipo": "superficie" },
+            { "nombre": "33 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Orientación Este", "tipo": "orientacion" }
+        ],
+        "descripcion": "Excelente monoambiente divisible a estrenar. Ambiente completamente ventilado y luminoso, cocina con muebles completos a medida, horno y anafe eléctrico de primera marca. Balcón y baño completo. SE ENTREGA CON AIRE FRIO CALOR",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/4_a9hrm9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/2_pv5isk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/1_u1do7e.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/5_poiemn.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/3_pcj0mp.jpg"
+        ]
+    },
+    {
         "id": "galpon-boulogne-sur-mer",
         "titulo": "Galpón en venta en Boulogne Sur Mer",
         "precio": "320.000",
@@ -17,47 +38,6 @@
         "descripcion": "Galpón en venta en Boulogne Sur Mer, ubicado estratégicamente, con fácil acceso a principales avenidas y medios de transporte. Ideal para empresas que buscan funcionalidad y buena conectividad. Con una superficie total de 267 m², este galpón cuenta con amplia oficina administrativa, gran espacio cubierto tipo fábrica/depósito, 2 baños y persiana de ingreso apta para autos o vehículos de carga.",
         "imagenes": [
             "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/1_xgwjkj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/2_qclcju.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/3_hgi2fi.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/4_ot9svq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/5_pza14o.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/6_spg5jl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/6_spg5jl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/8_x44mkz.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/9_dmrued.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/10_anrpws.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/11_onaze2.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/12_ninrnk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/13_fl14w4.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/14_na2ivf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/15_mirm0k.jpg"
-        ]
-    },
-    {
-        "id": "depto-3-ambientes-blanco-encalada",
-        "titulo": "Depto. 3 ambientes en alquiler - Villa Urquiza",
-        "precioPesos": "1.200.000",
-        "ubicacion": "Blanco Encalada 5600, Villa Urquiza",
-        "ambientes": "3",
-        "tipo": "Departamento",
-        "operacion": "Alquiler",
-        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3284.97443185997!2d-58.49287!3d-34.5795135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM0JzQ2LjMiUyA1OMKwMjknMzQuMyJX!5e0!3m2!1ses-419!2sar!4v1757437742412!5m2!1ses-419!2sar",
-        "caracteristicas": [
-            { "nombre": "3 ambientes", "tipo": "dormitorios" },
-            { "nombre": "2 baños", "tipo": "baños" },
-            { "nombre": "67 m² totales", "tipo": "superficie" },
-            { "nombre": "60 m² cubiertos", "tipo": "superficieCubierta" },
-            { "nombre": "Orientación Norte", "tipo": "orientacion" }
-        ],
-        "descripcion": "Moderno departamento de 3 ambientes en alquiler que combina comodidad y diseño ✨. Cuenta con 2 dormitorios (uno en suite) 🛏️ y un baño completo 🚿, ofreciendo el espacio ideal para una familia o pareja. El amplio living comedor se integra con un balcón aterrazado con vista abierta 🌿, creando un ambiente luminoso y funcional. La cocina, equipada a medida, presenta detalles en aluminio y vidrio, mesada de granito gris perla y grifería de primera línea (FV o Piazza). Con terminaciones modernas y artefactos eléctricos de calidad, esta propiedad es una oportunidad única para quienes buscan confort y estilo. Alquiler con ajuste trimestral según IPC (opción de USD 800 fijos).",
-        "imagenes": [
-            "https://res.cloudinary.com/eugepello/image/upload/v1757437506/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/1_fqa315.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437505/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/2_iws8qw.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437505/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/3_on2pc7.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437503/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/4_gklwqw.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437503/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/5_v4lho2.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437504/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/6_ch31fd.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437504/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/7_kbsfuk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437503/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/8_qhwq6f.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437502/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/9_jyyqpo.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437504/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/10_gn2ctq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437504/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/11_hk7hds.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437502/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/12_suehng.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437504/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/13_x2vxkg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437503/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/14_fenxou.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437505/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/15_ml2lpv.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437503/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/16_crbkz4.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437503/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/17_qxux6c.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437506/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/18_wl6wkf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437502/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/19_khodj5.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437505/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/20_ewzah6.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437505/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/21_rgdrqv.jpg"
-        ]
-    },
-    {
-        "id": "monoambiente-a-estrenar-urquiza",
-        "titulo": "Monoambiente a estrenar en alquiler - Villa Urquiza",
-        "precioPesos": "550.000",
-        "ubicacion": "Pacheco al 3000 - 3º piso, Villa Urquiza",
-        "ambientes": "Monoambiente",
-        "tipo": "Departamento",
-        "operacion": "Alquiler",
-        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3285.4253314991024!2d-58.4880224!3d-34.56810290000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM0JzA1LjIiUyA1OMKwMjknMTYuOSJX!5e0!3m2!1ses-419!2sar!4v1756070527196!5m2!1ses-419!2sar",
-        "caracteristicas": [
-            { "nombre": "Monoambiente", "tipo": "dormitorios" },
-            { "nombre": "1 baño", "tipo": "baños" },
-            { "nombre": "36,36 m² totales", "tipo": "superficie" },
-            { "nombre": "Orientación Este", "tipo": "orientacion" }
-        ],
-        "descripcion": "Excelente monoambiente divisible a estrenar. ¡EXPENSAS BAJAS! Ambiente completamente ventilado y luminoso, cocina con muebles completos a medida, horno y anafe eléctrico de primera marca, balcón y baño completo. SE ENTREGA CON AIRE FRÍO CALOR. Indexa trimestralmente por IPC.",
-        "imagenes": [
-            "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/1_u1do7e.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/2_pv5isk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/3_pcj0mp.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/4_a9hrm9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/5_poiemn.jpg"
         ]
     },
     {
@@ -103,6 +83,47 @@
         "descripcion": "Ubicada en una zona tranquila y residencial, esta propiedad ofrece 3 dormitorios, 2 baños completos, living comedor luminoso y cocina bien distribuida. Cuenta con patio y terraza, ideales para disfrutar al aire libre, además de cochera propia para mayor comodidad. Su orientación Este asegura muy buena entrada de luz natural durante todo el día. Una excelente oportunidad para quienes buscan vivir en Martínez, cerca de colegios, medios de transporte y comercios, en un entorno familiar y seguro.",
         "imagenes": [
             "https://res.cloudinary.com/eugepello/image/upload/v1757610151/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/1_jxdv3v.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610149/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/2_z6ofp6.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610150/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/3_ytsfej.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610148/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/4_un1yst.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610146/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/5_gacrnq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610151/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/6_hoqgor.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610147/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/7_xmpbmq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610133/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/8_ozzrnb.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610132/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/9_atb14o.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610144/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/10_iqwo6w.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610142/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/11_dwl0ys.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610140/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/12_iulr33.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610145/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/13_d9tz3y.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610143/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/14_n5pxic.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610139/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/15_p1oy3s.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610141/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/16_iai39j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610141/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/17_m7vxdp.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610149/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/18_nd2u4j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610142/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/19_etgrkm.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610140/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/20_vpwee9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610152/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/21_uaehou.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610144/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/22_ilpxpl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610148/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/23_pbseps.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610145/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/24_mwqwqp.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757610146/PROPIEDADES/CASA%20MARTINEZ%20RIO%20DE%20JANEIRO%20AL%201900%20NEW/25_idgom0.jpg"
+        ]
+    },
+    {
+        "id": "monoambiente-a-estrenar-urquiza",
+        "titulo": "Monoambiente a estrenar en alquiler - Villa Urquiza",
+        "precioPesos": "550.000",
+        "ubicacion": "Pacheco al 3000 - 3º piso, Villa Urquiza",
+        "ambientes": "Monoambiente",
+        "tipo": "Departamento",
+        "operacion": "Alquiler",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3285.4253314991024!2d-58.4880224!3d-34.56810290000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM0JzA1LjIiUyA1OMKwMjknMTYuOSJX!5e0!3m2!1ses-419!2sar!4v1756070527196!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "Monoambiente", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "36,36 m² totales", "tipo": "superficie" },
+            { "nombre": "Orientación Este", "tipo": "orientacion" }
+        ],
+        "descripcion": "Excelente monoambiente divisible a estrenar. ¡EXPENSAS BAJAS! Ambiente completamente ventilado y luminoso, cocina con muebles completos a medida, horno y anafe eléctrico de primera marca, balcón y baño completo. SE ENTREGA CON AIRE FRÍO CALOR. Indexa trimestralmente por IPC.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/1_u1do7e.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/2_pv5isk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/3_pcj0mp.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/4_a9hrm9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/5_poiemn.jpg"
+        ]
+    },
+    {
+        "id": "depto-3-ambientes-blanco-encalada",
+        "titulo": "Depto. 3 ambientes en alquiler - Villa Urquiza",
+        "precioPesos": "1.200.000",
+        "ubicacion": "Blanco Encalada 5600, Villa Urquiza",
+        "ambientes": "3",
+        "tipo": "Departamento",
+        "operacion": "Alquiler",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3284.97443185997!2d-58.49287!3d-34.5795135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM0JzQ2LjMiUyA1OMKwMjknMzQuMyJX!5e0!3m2!1ses-419!2sar!4v1757437742412!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "3 ambientes", "tipo": "dormitorios" },
+            { "nombre": "2 baños", "tipo": "baños" },
+            { "nombre": "67 m² totales", "tipo": "superficie" },
+            { "nombre": "60 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Orientación Norte", "tipo": "orientacion" }
+        ],
+        "descripcion": "Moderno departamento de 3 ambientes en alquiler que combina comodidad y diseño ✨. Cuenta con 2 dormitorios (uno en suite) 🛏️ y un baño completo 🚿, ofreciendo el espacio ideal para una familia o pareja. El amplio living comedor se integra con un balcón aterrazado con vista abierta 🌿, creando un ambiente luminoso y funcional. La cocina, equipada a medida, presenta detalles en aluminio y vidrio, mesada de granito gris perla y grifería de primera línea (FV o Piazza). Con terminaciones modernas y artefactos eléctricos de calidad, esta propiedad es una oportunidad única para quienes buscan confort y estilo. Alquiler con ajuste trimestral según IPC (opción de USD 800 fijos).",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1757437506/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/1_fqa315.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437505/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/2_iws8qw.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437505/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/3_on2pc7.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437503/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/4_gklwqw.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437503/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/5_v4lho2.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437504/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/6_ch31fd.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437504/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/7_kbsfuk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437503/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/8_qhwq6f.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437502/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/9_jyyqpo.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437504/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/10_gn2ctq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437504/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/11_hk7hds.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437502/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/12_suehng.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437504/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/13_x2vxkg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437503/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/14_fenxou.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437505/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/15_ml2lpv.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437503/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/16_crbkz4.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437503/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/17_qxux6c.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437506/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/18_wl6wkf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437502/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/19_khodj5.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437505/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/20_ewzah6.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757437505/PROPIEDADES/DEPTO%203%20AMBIENTES%20V.URQUIZA%201%2C2M/21_rgdrqv.jpg"
         ]
     },
     {
