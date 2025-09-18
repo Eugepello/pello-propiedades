@@ -1,4 +1,25 @@
 [{
+        "id": "depto-3-amb-donado-saavedra",
+        "titulo": "Departamento 3 ambientes a estrenar en Saavedra",
+        "precio": "140.000",
+        "ubicacion": "Donado al 4200, Saavedra",
+        "ambientes": "3",
+        "tipo": "Departamento",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3286.0170654144217!2d-58.49010739999999!3d-34.55312329999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDMzJzExLjIiUyA1OMKwMjknMjQuNCJX!5e0!3m2!1ses-419!2sar!4v1758206024026!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "2 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "51 m² totales", "tipo": "superficie" },
+            { "nombre": "48 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Orientación Sudoeste", "tipo": "orientacion" }
+        ],
+        "descripcion": "Departamento de 3 ambientes muy luminoso, con cocina integrada completa y todo eléctrico. Baño completo y amplio balcón.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1758205795/PROPIEDADES/3%20AMBIENTES%20DONADO%204200/1_bsg3xb.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758205797/PROPIEDADES/3%20AMBIENTES%20DONADO%204200/2_l0oix3.png", "https://res.cloudinary.com/eugepello/image/upload/v1758205796/PROPIEDADES/3%20AMBIENTES%20DONADO%204200/3_omto8d.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758205796/PROPIEDADES/3%20AMBIENTES%20DONADO%204200/4_nwfgrv.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758205795/PROPIEDADES/3%20AMBIENTES%20DONADO%204200/5_sqezmc.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758205796/PROPIEDADES/3%20AMBIENTES%20DONADO%204200/6_vdjme2.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758205795/PROPIEDADES/3%20AMBIENTES%20DONADO%204200/7_hbzlv5.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758205795/PROPIEDADES/3%20AMBIENTES%20DONADO%204200/8_fa4gz3.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758205795/PROPIEDADES/3%20AMBIENTES%20DONADO%204200/9_lqhfav.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758205796/PROPIEDADES/3%20AMBIENTES%20DONADO%204200/10_phoxhf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758205796/PROPIEDADES/3%20AMBIENTES%20DONADO%204200/10_phoxhf.jpg"
+        ]
+    },
+    {
         "id": "monoambiente-venta-estrenar-villa-urquiza",
         "titulo": "Departamento Monoambiente en venta - Villa Urquiza",
         "precio": "98.000",
@@ -17,27 +38,6 @@
         "descripcion": "Excelente monoambiente divisible a estrenar. Ambiente completamente ventilado y luminoso, cocina con muebles completos a medida, horno y anafe eléctrico de primera marca. Balcón y baño completo. SE ENTREGA CON AIRE FRIO CALOR",
         "imagenes": [
             "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/4_a9hrm9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/2_pv5isk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/1_u1do7e.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/5_poiemn.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1756070299/PROPIEDADES/MONOAMBIENTE%20VILLA%20URQUIZA/3_pcj0mp.jpg"
-        ]
-    },
-    {
-        "id": "galpon-boulogne-sur-mer",
-        "titulo": "Galpón en venta en Boulogne Sur Mer",
-        "precio": "320.000",
-        "ubicacion": "Av. Bernardo Ader, Boulogne Sur Mer",
-        "ambientes": "",
-        "tipo": "Galpón",
-        "operacion": "Venta",
-        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3287.458559617203!2d-58.56315670000001!3d-34.516608399999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDMwJzU5LjgiUyA1OMKwMzMnNDcuNCJX!5e0!3m2!1ses-419!2sar!4v1757960651031!5m2!1ses-419!2sar",
-        "caracteristicas": [
-            { "nombre": "2 baños", "tipo": "baños" },
-            { "nombre": "267 m² totales", "tipo": "superficie" },
-            { "nombre": "267 m² cubiertos", "tipo": "superficieCubierta" },
-            { "nombre": "Oficinas", "tipo": "oficina" },
-            { "nombre": "Depósito", "tipo": "deposito" }
-        ],
-        "descripcion": "Galpón en venta en Boulogne Sur Mer, ubicado estratégicamente, con fácil acceso a principales avenidas y medios de transporte. Ideal para empresas que buscan funcionalidad y buena conectividad. Con una superficie total de 267 m², este galpón cuenta con amplia oficina administrativa, gran espacio cubierto tipo fábrica/depósito, 2 baños y persiana de ingreso apta para autos o vehículos de carga.",
-        "imagenes": [
-            "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/1_xgwjkj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/2_qclcju.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/3_hgi2fi.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/4_ot9svq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/5_pza14o.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/6_spg5jl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/6_spg5jl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/8_x44mkz.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/9_dmrued.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/10_anrpws.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/11_onaze2.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/12_ninrnk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/13_fl14w4.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/14_na2ivf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/15_mirm0k.jpg"
         ]
     },
     {
@@ -62,6 +62,27 @@
         "descripcion": "🏢 Importante local en venta sobre Av. San Martín 3460, Florida Oeste, con excelente visibilidad sobre arteria principal. A dos cuadras de Panamericana y una de Av. Mitre. Cuenta con 1.300 m² cubiertos, depósito, oficina, 3 baños, vestuarios, montacarga, entre otras cosas. 🚗 Se incluye en la operación el lote de enfrente de 307 m² utilizado como estacionamiento, ideal para potenciar logística, personal de empleados o atención al público. Una oportunidad única para desarrollar un polo comercial en una de las zonas más transitadas de Vicente López.",
         "imagenes": [
             "https://res.cloudinary.com/eugepello/image/upload/c_crop,w_2400,h_1654/v1749915472/PROPIEDADES/SANITARIOS%20LONJEDO/Screenshot_2025-06-14_at_12.37.20_lyyusd.png", "https://res.cloudinary.com/eugepello/image/upload/v1749755487/PROPIEDADES/SANITARIOS%20LONJEDO/image00012_a2yyee.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755488/PROPIEDADES/SANITARIOS%20LONJEDO/image00011_fqizuf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755488/PROPIEDADES/SANITARIOS%20LONJEDO/image00010_ssuvzk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749752610/PROPIEDADES/SANITARIOS%20LONJEDO/DJI_20250612125631_0006_D_biz0n9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755768/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_125817_cqy19j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755775/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132026_jmzoie.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749756217/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132009_enp6mg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755778/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132106_q0wlvk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755776/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132140_jvwxkg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755773/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131922_yra64j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755778/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131934_uqymfq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755775/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131908_eunnds.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755482/PROPIEDADES/SANITARIOS%20LONJEDO/image00001_bgs5if.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755486/PROPIEDADES/SANITARIOS%20LONJEDO/image00007_azy3qq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755485/PROPIEDADES/SANITARIOS%20LONJEDO/image00005_vnipff.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755486/PROPIEDADES/SANITARIOS%20LONJEDO/image00006_jk7imh.jpg"
+        ]
+    },
+    {
+        "id": "galpon-boulogne-sur-mer",
+        "titulo": "Galpón en venta en Boulogne Sur Mer",
+        "precio": "320.000",
+        "ubicacion": "Av. Bernardo Ader, Boulogne Sur Mer",
+        "ambientes": "",
+        "tipo": "Galpón",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3287.458559617203!2d-58.56315670000001!3d-34.516608399999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDMwJzU5LjgiUyA1OMKwMzMnNDcuNCJX!5e0!3m2!1ses-419!2sar!4v1757960651031!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "2 baños", "tipo": "baños" },
+            { "nombre": "267 m² totales", "tipo": "superficie" },
+            { "nombre": "267 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Oficinas", "tipo": "oficina" },
+            { "nombre": "Depósito", "tipo": "deposito" }
+        ],
+        "descripcion": "Galpón en venta en Boulogne Sur Mer, ubicado estratégicamente, con fácil acceso a principales avenidas y medios de transporte. Ideal para empresas que buscan funcionalidad y buena conectividad. Con una superficie total de 267 m², este galpón cuenta con amplia oficina administrativa, gran espacio cubierto tipo fábrica/depósito, 2 baños y persiana de ingreso apta para autos o vehículos de carga.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/1_xgwjkj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/2_qclcju.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/3_hgi2fi.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/4_ot9svq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/5_pza14o.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/6_spg5jl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/6_spg5jl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/8_x44mkz.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/9_dmrued.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/10_anrpws.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/11_onaze2.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/12_ninrnk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960421/PROPIEDADES/galpon%20boulogne/13_fl14w4.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/14_na2ivf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1757960420/PROPIEDADES/galpon%20boulogne/15_mirm0k.jpg"
         ]
     },
     {
