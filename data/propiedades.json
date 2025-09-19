@@ -1,4 +1,27 @@
 [{
+        "id": "ph-4amb-villa-urquiza-triunvirato",
+        "titulo": "PH 4 ambientes con Patio y Terraza - Villa Urquiza",
+        "precio": "185.000",
+        "ubicacion": "Av. Triunvirato al 5300, Villa Urquiza",
+        "ambientes": "4",
+        "tipo": "PH",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3285.3542313682615!2d-58.491766899999995!3d-34.569902400000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM0JzExLjciUyA1OMKwMjknMzAuNCJX!5e0!3m2!1ses-419!2sar!4v1758293521448!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "2 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "4 ambientes", "tipo": "ambientes" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "114 m² totales", "tipo": "superficie" },
+            { "nombre": "88 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Orientación Sudeste", "tipo": "orientacion" },
+            { "nombre": "Patio", "tipo": "patio" }
+        ],
+        "descripcion": "Ph antiguo reciclado a nuevo cerca de Av. Triunvirato y Av. Congreso. Cuenta con dos plantas. PB: patio cocina comedor (nueva), living-comedor de muy buenas medidas - techos altos y toilette recepción. P.A.: 2 dormitorios muy amplios, uno de ellos con entrepiso - terraza propia con parrilla. A 5 cuadras el subte linea B y estación de tren Villa Urquiza.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1758294197/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/1_ck615n.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294193/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/2_shmkrm.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294195/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/3_eyxe44.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294190/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/4_ysscjz.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294197/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/5_alz40i.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294192/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/6_c0gjws.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294193/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/7_ryzcde.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294195/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/8_rzdlcr.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294189/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/9_qcc2qx.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294190/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/10_zb6qgh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294189/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/11_jlz901.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294189/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/11_jlz901.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294194/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/13_guz3bg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294190/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/14_a7rk8e.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294194/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/15_qwx2ps.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294196/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/16_jieiff.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758294189/PROPIEDADES/PH%20Villa%20urquiza%20av%20triunvirato/17_rrxyua.jpg"
+        ]
+    },
+    {
         "id": "depto-3-amb-donado-saavedra",
         "titulo": "Departamento 3 ambientes a estrenar en Saavedra",
         "precio": "140.000",

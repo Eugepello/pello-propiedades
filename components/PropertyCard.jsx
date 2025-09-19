@@ -27,6 +27,8 @@ import {
   Leaf,
   WavesLadder,
   Clock,
+  HouseIcon,
+  
 } from "lucide-react";
 
 const iconosCaracteristicas = {
@@ -45,7 +47,8 @@ const iconosCaracteristicas = {
   edificio: Building2,
   ambientesSeparados: DoorOpen,
   default: HelpCircle,
-  antiguedad: Clock
+  antiguedad: Clock,
+  ambientes: HouseIcon
 };
 
 
