@@ -1,4 +1,27 @@
 [{
+        "id": "depto-2amb-caballito",
+        "titulo": "Hermoso departamento 2 ambientes en venta en Caballito",
+        "precio": "125.000",
+        "ubicacion": "Av. Gaona al 1200",
+        "ambientes": "2",
+        "tipo": "Departamento",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3283.851722657684!2d-58.447337700000006!3d-34.607910800000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM2JzI4LjUiUyA1OMKwMjYnNTAuNCJX!5e0!3m2!1ses-419!2sar!4v1758569013563!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "1 dormitorio", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "52 m² totales", "tipo": "superficie" },
+            { "nombre": "52 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Orientación Sur", "tipo": "orientacion" },
+            { "nombre": "Amenities", "tipo": "amenities" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "Hermoso departamento de 2 ambientes al Contrafrente. Living-comedor con cocina integrada y desayunador. Toilette de recepción. Baulera bajo escalera. En Planta alta: Amplio dormitorio muy luminoso. Baño completo. Todo el departamento con piso de madera flotante. Baño con cerámicos. ESCUCHA OFERTAS",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1758568617/PROPIEDADES/2%20ambientes%20CABALLITO/1_wy823l.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568619/PROPIEDADES/2%20ambientes%20CABALLITO/2_xsexa5.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568614/PROPIEDADES/2%20ambientes%20CABALLITO/3_iq35rq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568613/PROPIEDADES/2%20ambientes%20CABALLITO/4_xn7uhb.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568623/PROPIEDADES/2%20ambientes%20CABALLITO/5_usax29.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568615/PROPIEDADES/2%20ambientes%20CABALLITO/6_geram9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568622/PROPIEDADES/2%20ambientes%20CABALLITO/7_wzqdob.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568606/PROPIEDADES/2%20ambientes%20CABALLITO/8_ulbqpn.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568612/PROPIEDADES/2%20ambientes%20CABALLITO/9_opztso.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568611/PROPIEDADES/2%20ambientes%20CABALLITO/10_l8hhhb.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568613/PROPIEDADES/2%20ambientes%20CABALLITO/11_o5cwkn.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568601/PROPIEDADES/2%20ambientes%20CABALLITO/12_huixld.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568602/PROPIEDADES/2%20ambientes%20CABALLITO/13_h70z45.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568610/PROPIEDADES/2%20ambientes%20CABALLITO/14_watgkc.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568616/PROPIEDADES/2%20ambientes%20CABALLITO/15_egy4q1.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568601/PROPIEDADES/2%20ambientes%20CABALLITO/16_xjcesu.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568609/PROPIEDADES/2%20ambientes%20CABALLITO/17_msrhi1.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568608/PROPIEDADES/2%20ambientes%20CABALLITO/18_bos7o1.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568625/PROPIEDADES/2%20ambientes%20CABALLITO/19_nc9aw0.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568624/PROPIEDADES/2%20ambientes%20CABALLITO/20_kgddgi.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568620/PROPIEDADES/2%20ambientes%20CABALLITO/21_ninzzq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568607/PROPIEDADES/2%20ambientes%20CABALLITO/22_hwnlux.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568619/PROPIEDADES/2%20ambientes%20CABALLITO/23_x1cf19.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568604/PROPIEDADES/2%20ambientes%20CABALLITO/24_jltw4b.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568605/PROPIEDADES/2%20ambientes%20CABALLITO/25_wb1hel.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568621/PROPIEDADES/2%20ambientes%20CABALLITO/26_pv0okf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758568603/PROPIEDADES/2%20ambientes%20CABALLITO/27_kxq1cz.jpg"
+        ]
+    },
+    {
         "id": "ph-3amb-olivos-alquiler",
         "titulo": "PH 3 ambientes en alquiler",
         "precioPesos": "800.000",
