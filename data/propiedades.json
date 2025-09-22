@@ -1,4 +1,24 @@
 [{
+        "id": "ph-3amb-olivos-alquiler",
+        "titulo": "PH 3 ambientes en alquiler",
+        "precioPesos": "800.000",
+        "ubicacion": "Salvador Debenedetti al 3000",
+        "ambientes": "3",
+        "tipo": "PH",
+        "operacion": "Alquiler",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3287.792686717564!2d-58.511245599999995!3d-34.50813970000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDMwJzI5LjMiUyA1OMKwMzAnNDAuNSJX!5e0!3m2!1ses-419!2sar!4v1758551271619!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "2 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "50 m² totales", "tipo": "superficie" },
+            { "nombre": "50 m² cubiertos", "tipo": "superficieCubierta" }
+        ],
+        "descripcion": "Se alquila PH 3 ambientes en la zona de Olivos. El mismo se encuentra en muy buen estado con pisos de madera, lavadero y placards de piso a techo. Precio del alquiler se ajusta trimestralmente según el IPC",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1758550927/PROPIEDADES/ALQUILER%20PH%20EN%20OLIVOS/1_szyh6a.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758550929/PROPIEDADES/ALQUILER%20PH%20EN%20OLIVOS/2_ywrk99.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758550933/PROPIEDADES/ALQUILER%20PH%20EN%20OLIVOS/3_g3oycd.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758550932/PROPIEDADES/ALQUILER%20PH%20EN%20OLIVOS/4_wi8jou.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758550928/PROPIEDADES/ALQUILER%20PH%20EN%20OLIVOS/5_ryoywd.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758550927/PROPIEDADES/ALQUILER%20PH%20EN%20OLIVOS/6_dghjcz.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758550927/PROPIEDADES/ALQUILER%20PH%20EN%20OLIVOS/7_edjd0l.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758550931/PROPIEDADES/ALQUILER%20PH%20EN%20OLIVOS/8_qdwixm.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758550930/PROPIEDADES/ALQUILER%20PH%20EN%20OLIVOS/9_t69fie.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758550932/PROPIEDADES/ALQUILER%20PH%20EN%20OLIVOS/10_dgi0on.jpg"
+        ]
+    },
+    {
         "id": "ph-4amb-villa-urquiza-triunvirato",
         "titulo": "PH 4 ambientes con Patio y Terraza - Villa Urquiza",
         "precio": "185.000",
