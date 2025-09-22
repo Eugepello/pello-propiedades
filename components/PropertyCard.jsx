@@ -215,7 +215,7 @@ export default function PropertyCard({ propiedad }) {
             📍
             {propiedad.ubicacion}
           </p>
-          <p className="text-lg font-bold mt-2">US$ {propiedad.precio}</p>
+          {propiedad.precio ? <p className="text-lg font-bold mt-2">US$ {propiedad.precio}</p> : <p className="text-lg font-bold mt-2"> ARS$ {propiedad.precioPesos}</p>}
 
           {/* Características visuales */}
           <div className="mt-6 mb-4 grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4 bg-gray-50 p-4 rounded-xl border border-gray-200">
