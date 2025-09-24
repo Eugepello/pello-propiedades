@@ -1,4 +1,27 @@
 [{
+        "id": "casa-barrio-san-pablo-pilar",
+        "titulo": "Casa 4 amb. a la venta en Barrio San Pablo - Pilar",
+        "precio": "189.000",
+        "ubicacion": "Leandro N. Alem al 3300 - Lote 170",
+        "ambientes": "4",
+        "tipo": "Casa",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3289.2280703772894!2d-58.8383398!3d-34.471738099999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDI4JzE4LjMiUyA1OMKwNTAnMTguMCJX!5e0!3m2!1ses-419!2sar!4v1758733489056!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "3 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "2 baños", "tipo": "baños" },
+            { "nombre": "2 Cocheras", "tipo": "cochera" },
+            { "nombre": "551 m² totales", "tipo": "superficie" },
+            { "nombre": "120,36 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "Propiedad desarrollada en una planta con excelente distribución y detalles de categoría. Cuenta con: 3 dormitorios (principal en suite con vestidor y baño), 2 baños + toilette, living comedor amplio con gran ventanal, cocina integrada con desayunador, lavadero independiente, galería con parrilla completa, jardín parquizado y piscina con solárium y 2 cocheras. Detalles que suman: pisos de porcelanato Ilva, grifería FV, aberturas DVH, calefacción por piso radiante, aires frío/calor en todos los ambientes, iluminación LED exterior y tanque cisterna con bomba presurizadora. El barrio cuenta con canchas de tenis y fútbol, SUM, juegos para chicos, seguridad 24 hs y todos los servicios subterráneos.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1758733634/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/1_beak2w.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733633/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/2_jzp27i.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733633/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/3_vuc6tf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733635/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/4_tavmmh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733632/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/5_u7vpkc.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733632/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/6_cfvpdl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733632/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/7_jkaeqf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733634/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/8_xxxbor.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733634/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/9_tzc7xo.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733634/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/10_xdzu5c.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733634/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/11_kka4e5.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733632/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/12_cqjdbr.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733632/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/13_unxgaj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733632/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/14_jdljjd.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733633/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/15_wqopth.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733633/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/16_lmz0zu.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733633/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/17_fnffyh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733633/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/17_fnffyh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733635/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/18_zm5hgh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733635/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/19_dnlcxv.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733634/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/20_cn4lyx.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733633/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/21_bynhit.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1758733635/PROPIEDADES/CASA%20PILAR%20BARRIO%20SAN%20PABLO/22_fbq9dx.jpg"
+        ]
+    },
+    {
         "id": "depto-2amb-caballito",
         "titulo": "Hermoso departamento 2 ambientes en venta en Caballito",
         "precio": "125.000",
