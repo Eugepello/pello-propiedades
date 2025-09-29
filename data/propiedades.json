@@ -1,4 +1,21 @@
 [{
+        "id": "terreno-pilar-del-este-san-ramon",
+        "titulo": "Se vende TERRENO INTERNO con vista al Lago BARRIO SAN RAMON - PILAR DEL ESTE",
+        "precio": "47.000",
+        "ubicacion": "C. Rural Guastavino y calle Prat PILAR DE ESTE - SAN RAMON",
+        "ambientes": "",
+        "tipo": "Terreno",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3292.8088322335607!2d-58.86425559999999!3d-34.380782100000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDIyJzUwLjgiUyA1OMKwNTEnNTEuMyJX!5e0!3m2!1ses-419!2sar!4v1759159178985!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "--- m² totales", "tipo": "superficie" }
+        ],
+        "descripcion": "Lote Exclusivo en San Ramón: Ubicación Privilegiada y Vista Imponente a la Laguna ¡Oportunidad única en San Ramón! Este lote interno sobre calle principal ofrece una ubicación privilegiada frente a la hermosa Laguna, proporcionando una vista imponente y tranquila. Ideal para aquellos que buscan un estilo de vida sereno y conectado con la naturaleza. Ubicación exclusiva: Frente a la Laguna, en un entorno natural y tranquilo; Lote interno sobre calle principal: Acceso fácil y seguro, con visibilidad desde la calle principal; Vista imponente: Disfruta de la belleza de la Laguna y su entorno natural desde tu propio lote; Oportunidad de inversión: Ideal para construir tu hogar soñado o como inversión para el futuro; Barrio San Ramón: Ubicado en un barrio residencial tranquilo y seguro, con fácil acceso a servicios y comodidades. No te pierdas esta oportunidad de vivir en un entorno natural y privilegiado",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1759158662/PROPIEDADES/terreno%20pilar%20del%20este%2047k/1_ybnd3x.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759158662/PROPIEDADES/terreno%20pilar%20del%20este%2047k/2_ewamxp.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759158662/PROPIEDADES/terreno%20pilar%20del%20este%2047k/3_vh2s6n.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759158661/PROPIEDADES/terreno%20pilar%20del%20este%2047k/4_pku7sj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759158661/PROPIEDADES/terreno%20pilar%20del%20este%2047k/5_xgehor.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759158662/PROPIEDADES/terreno%20pilar%20del%20este%2047k/6_t851bh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759158662/PROPIEDADES/terreno%20pilar%20del%20este%2047k/7_k1nte4.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759158661/PROPIEDADES/terreno%20pilar%20del%20este%2047k/8_mx0nbc.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759158660/PROPIEDADES/terreno%20pilar%20del%20este%2047k/9_yhlvkx.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759158661/PROPIEDADES/terreno%20pilar%20del%20este%2047k/10_ambvk1.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759158661/PROPIEDADES/terreno%20pilar%20del%20este%2047k/11_fclckq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759158661/PROPIEDADES/terreno%20pilar%20del%20este%2047k/12_lkbsrb.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759158661/PROPIEDADES/terreno%20pilar%20del%20este%2047k/13_aputvc.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759158661/PROPIEDADES/terreno%20pilar%20del%20este%2047k/14_nezk0p.jpg"
+        ]
+    },
+    {
         "id": "casa-barrio-san-pablo-pilar",
         "titulo": "Casa 4 amb. a la venta en Barrio San Pablo - Pilar",
         "precio": "189.000",
