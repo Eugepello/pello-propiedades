@@ -1,4 +1,21 @@
 [{
+        "id": "terreno-boulogne-gobernador-arana",
+        "titulo": "Terreno sobre Gobernador Arana en venta - Boulogne",
+        "precio": "395.000",
+        "ubicacion": "Gobernador Arana al 1400, Boulogne - San Isidro",
+        "ambientes": "",
+        "tipo": "Casa",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3288.4695544847223!2d-58.5722369!3d-34.49097839999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDI5JzI3LjUiUyA1OMKwMzQnMjAuMSJX!5e0!3m2!1ses-419!2sar!4v1759502540779!5m2!1ses-419!2sar",
+        "caracteristicas": [
+
+        ],
+        "descripcion": "Amplio lote a la venta en Boulogne, San Isidro. Excelente ubicación.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1759502995/PROPIEDADES/TERRENO%20BOULOGNE/1_igm6qr.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759502994/PROPIEDADES/TERRENO%20BOULOGNE/2_pdfcdv.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759502995/PROPIEDADES/TERRENO%20BOULOGNE/3_onfrwa.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759502994/PROPIEDADES/TERRENO%20BOULOGNE/4_rf16es.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759502994/PROPIEDADES/TERRENO%20BOULOGNE/5_h01jic.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759502994/PROPIEDADES/TERRENO%20BOULOGNE/6_esrfjw.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759502994/PROPIEDADES/TERRENO%20BOULOGNE/7_xlwgh7.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759502992/PROPIEDADES/TERRENO%20BOULOGNE/8_wqlkiu.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759502992/PROPIEDADES/TERRENO%20BOULOGNE/9_fyji2a.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759502993/PROPIEDADES/TERRENO%20BOULOGNE/10_zvs7hj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759502992/PROPIEDADES/TERRENO%20BOULOGNE/11_joapoy.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759502992/PROPIEDADES/TERRENO%20BOULOGNE/12_ggue1a.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759502992/PROPIEDADES/TERRENO%20BOULOGNE/13_al7wtc.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1759502992/PROPIEDADES/TERRENO%20BOULOGNE/14_hebdaj.jpg"
+        ]
+    },
+    {
         "id": "terreno-pilar-del-este-san-ramon",
         "titulo": "Se vende TERRENO INTERNO con vista al Lago BARRIO SAN RAMON - PILAR DEL ESTE",
         "precio": "47.000",
