@@ -1,4 +1,44 @@
 [{
+        "id": "loft-villa-urquiza-2",
+        "titulo": "Departamento tipo Loft 2 ambientes a estrenar en Villa Urquiza",
+        "precio": "265.000",
+        "ubicacion": "Díaz Colodrero al 3400, Villa Urquiza",
+        "ambientes": "2",
+        "tipo": "Departamento",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3285.538535816495!2d-58.492484299999994!3d-34.565237599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDMzJzU0LjkiUyA1OMKwMjknMzIuOSJX!5e0!3m2!1ses-419!2sar!4v1761156028118!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "1 dormitorio", "tipo": "dormitorios" },
+            { "nombre": "2 baños", "tipo": "baños" },
+            { "nombre": "93 m² totales", "tipo": "superficie" },
+            { "nombre": "2 ambientes", "tipo": "ambientesSeparados" }
+        ],
+        "descripcion": "Excelente depatramento tipo loft 2 ambientes con dos baños completos, uno en planta baja y otro en planta alta. El depto cuenta con un lving-comedor cocina todo integrado con conexion directa con puerta ventana a un balcon terraza con hermosas vistas y generando una luz increíble. Si subimos a la segunda planta, nos encontramos con un dormitorio con placard y un baño completo, la particularidad que tiene este depto es que tiene la posibilidad de expansión a 3 ambientes como se ve en las fotos, ya está preparado para armar el 2do dormitorio en la planta alta con su respectiva ventana y conexiones eléctricas, lo que da lugar a que cada uno lo arme a su gusto.",
+        "imagenes": [
+            "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+        ]
+    },
+    {
+        "id": "loft-villa-urquiza",
+        "titulo": "Departamento tipo Loft 3 ambientes a estrenar en Villa Urquiza",
+        "precio": "260.000",
+        "ubicacion": "Díaz Colodrero al 3400, Villa Urquiza",
+        "ambientes": "3",
+        "tipo": "Departamento",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3285.538535816495!2d-58.492484299999994!3d-34.565237599999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDMzJzU0LjkiUyA1OMKwMjknMzIuOSJX!5e0!3m2!1ses-419!2sar!4v1761156028118!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "2 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "2 baños", "tipo": "baños" },
+            { "nombre": "89 m² totales", "tipo": "superficie" },
+            { "nombre": "89 m² cubiertos", "tipo": "superficieCubierta" }
+        ],
+        "descripcion": "Departamento tipo loft 3 ambientes en planta baja. Cuenta con un living comedor, cocina exageradamente grande, todo integrado con un ventanal al frente y un patio al contrafrente preparado para armar el lavadero semi cubierto, en la misma planta baja tenemos un baño completo. Pasando a la planta alta subiendo por una escalera de hierro diseñada y personalizada por el herrero para esta unidad, nos encontramos dos dormitorios conformados con placard, ventanas grandes con DVH y un baño completo para los mismos.",
+        "imagenes": [
+            "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+        ]
+    },
+    {
         "id": "desarrollo-gabriela-mistral-devoto",
         "titulo": "Desarrollo Mistral",
         "precio": "81.000 - US$ 145.000",
@@ -61,7 +101,7 @@
         "titulo": "Desarrollo Valdenegro",
         "precio": "83.000 - US$ 195.000",
         "ubicacion": "Valdenegro 2902, Villa Urquiza",
-        "ambientes": "1, 2 y 3 ambientes",
+        "ambientes": "1, 2, 3",
         "tipo": "Departamento",
         "operacion": "Venta",
         "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3285.4364930758416!2d-58.485441400000006!3d-34.567820399999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM0JzA0LjIiUyA1OMKwMjknMDcuNiJX!5e0!3m2!1ses-419!2sar!4v1760452416586!5m2!1ses-419!2sar",
@@ -274,7 +314,7 @@
         "titulo": "Departamento Monoambiente en venta - Villa Urquiza",
         "precio": "98.000",
         "ubicacion": "Pacheco al 3000 - 4º piso, Villa Urquiza",
-        "ambientes": "Monoambiente",
+        "ambientes": "1",
         "tipo": "Departamento",
         "operacion": "Venta",
         "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3285.4253314991024!2d-58.4880224!3d-34.56810290000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM0JzA1LjIiUyA1OMKwMjknMTYuOSJX!5e0!3m2!1ses-419!2sar!4v1758127666341!5m2!1ses-419!2sar",
@@ -361,7 +401,7 @@
         "titulo": "Monoambiente a estrenar en alquiler - Villa Urquiza",
         "precioPesos": "550.000",
         "ubicacion": "Pacheco al 3000 - 3º piso, Villa Urquiza",
-        "ambientes": "Monoambiente",
+        "ambientes": "1",
         "tipo": "Departamento",
         "operacion": "Alquiler",
         "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3285.4253314991024!2d-58.4880224!3d-34.56810290000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM0JzA1LjIiUyA1OMKwMjknMTYuOSJX!5e0!3m2!1ses-419!2sar!4v1756070527196!5m2!1ses-419!2sar",
@@ -847,6 +887,28 @@
         "descripcion": "Gran oportunidad de inversión en Talcahuano 500. PH con entrada independiente, sin expensas y con un ambiente lleno de potencial. Construcción sólida de aproximadamente 50 años, con techo de losa que permite pensar en una ampliación de la vivienda en la parte superior si así se desea. Contrafrente con mucha luz natural y un diseño que invita a soñar con nuevos proyectos. Dos dormitorios y un baño completo, cocina muy amplia y comedor con ventanas al exterior para disfrutar de la luz. No tiene expensas, por lo que cada metro se puede reimaginar según tus necesidades. Dos patios amplios que ofrecen mucho espacio al aire libre y crean un ambiente perfecto para disfrutar y ampliar tus posibilidades. La seguridad es muy buena: la propiedad está situada detrás de otra casa, lo que añade una capa extra de protección y control de acceso. El acceso no es inmediato para cualquier visitante, lo que aporta tranquilidad. La vivienda está vacía, lista para ser habitada de inmediato: solo hace falta una mirada con proyección y amor para convertirla en tu hogar. Se puede entrar a vivir con pintura y pequeños arreglos; la base está lista para hacerlo tuyo. Ubicación conveniente, cerca de Panamericana, con acceso sencillo para empezar a disfrutar de tu nuevo hogar cuanto antes. Los propietarios quieren vender y están dispuestos a escuchar ofertas. ¿Te gustaría programar una visita para ver todo su potencial en persona?",
         "imagenes": [
             "https://res.cloudinary.com/eugepello/image/upload/v1750041585/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_12709165032968851382128480702005817985034857299444703385243674272384695045616_sx8hlq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041587/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_66847241883564366980461560971661483753753457381134080716401880177537228710147_aa18xe.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041578/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_52422354871107532546689351239295652055778495856468428888042800385259987653015_xqb76w.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041570/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_13663496785045307282386812490307301993755431495408046516729510703383717547016_zx9u6j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041569/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_102900817669573404420533105169575381437064139348613377358357546241051898858616_uf8nfx.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041575/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_101830316096784444315131788517373031881450606056163518021136313684449939229729_wyqvur.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041571/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_52461887246831576393995817686633998822820191594850435621323795163404797093290_j62rv5.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041572/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_68080554651130101762886855280649451187655655037623529454194585768534678268342_fxr3m9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041580/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_50525085843846334785439530503303504238570707912548182809355192454628799075646_el9uan.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041589/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_7460509199577043955055303555582639287444923208538031273841083479223413436426_ttlm2b.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041588/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_45876379575289045383559528541091151951157476287331608104226385457966450286996_ghweib.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041591/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_23082951333129784161158840720255120966475911666971058066563828584854759192779_nktjs5.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1750041596/PROPIEDADES/PH%20A%20RECICLAR%20TALCAHUANO%20MARTELLI/6850336_97272535296582880658731165247234353693419014643009181485003839485006103983455_aa2fez.jpg"
+        ]
+    },
+    {
+        "id": "depto-3-amb-san-martin",
+        "titulo": "Departamento 3 ambientes en venta en San Martin",
+        "precio": "75.000",
+        "ubicacion": "Pueyrredon al 3500 - 3er piso, San Martin",
+        "ambientes": "3",
+        "tipo": "Departamento",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3285.207544266255!2d-58.5386046!3d-34.57361470000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM0JzI1LjAiUyA1OMKwMzInMTkuMCJX!5e0!3m2!1ses-419!2sar!4v1761150268804!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "2 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "1 baños", "tipo": "baños" },
+            { "nombre": "50 m² totales", "tipo": "superficie" },
+            { "nombre": "50 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Orientación Sur", "tipo": "orientacion" },
+            { "nombre": "3 ambientes", "tipo": "ambientesSeparados" }
+        ],
+        "descripcion": "IDEAL INVERSIÓN. APTO PROFESIONAL. UBICADO A 3 CUADRAS DE  PLAZA SAN MARTIN, AV. 3 D FEBRERO Y 25 DE MAYO. CERCA DE ESTACIÓN, SEMIPISO -3ER PISO FRENTE, MUY LUMINOSO, BAJAS EXPENSAS, AMPLIO LIVING COMEDOR, COCINA MUEBLES BAJO MESADA CONEXIÓN PARA LAVARROPAS NO TIENE ARTEFACTO  COCINA, 2 DORMITORIOS CON PLACAR, BAÑO COMPLETO",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1747757777/PROPIEDADES/DEPARTAMENTO%20SAN%20MARTIN%20Pueyrredon%20al%203500%20-%20Piso%203rO/55484867551119400819406280843736235472614304673561049410098926613830367151150_xfmkb4.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757777/PROPIEDADES/DEPARTAMENTO%20SAN%20MARTIN%20Pueyrredon%20al%203500%20-%20Piso%203rO/2894233668460415125235401700209102453806361246176124660748653441882000228450_sopusl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757325/PROPIEDADES/DEPARTAMENTO%20SAN%20MARTIN%20Pueyrredon%20al%203500%20-%20Piso%203rO/32148066447492806429747530060285197175657022324585339604760720706331059121252_ckktz2.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757323/PROPIEDADES/DEPARTAMENTO%20SAN%20MARTIN%20Pueyrredon%20al%203500%20-%20Piso%203rO/63353622897918667879223035074860349032903458819490177971917318613648456742380_amw1ue.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757324/PROPIEDADES/DEPARTAMENTO%20SAN%20MARTIN%20Pueyrredon%20al%203500%20-%20Piso%203rO/7765641883121612478947574856888468585528895098804511794658995736362587284995_vqls6q.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757326/PROPIEDADES/DEPARTAMENTO%20SAN%20MARTIN%20Pueyrredon%20al%203500%20-%20Piso%203rO/101813150652852882623810437461100642699023550166671347276254592779185232692402_uqonl1.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757323/PROPIEDADES/DEPARTAMENTO%20SAN%20MARTIN%20Pueyrredon%20al%203500%20-%20Piso%203rO/114520868448350019053946717710468716238406893664227261887164173760711664182280_xap0nh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757323/PROPIEDADES/DEPARTAMENTO%20SAN%20MARTIN%20Pueyrredon%20al%203500%20-%20Piso%203rO/34644292886951283281352799743041017776583365350304563289327373339531116863363_f542mf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757324/PROPIEDADES/DEPARTAMENTO%20SAN%20MARTIN%20Pueyrredon%20al%203500%20-%20Piso%203rO/42051190910584012286035929330934893299214771311259648014979980486287519719515_ujbqgv.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757324/PROPIEDADES/DEPARTAMENTO%20SAN%20MARTIN%20Pueyrredon%20al%203500%20-%20Piso%203rO/20693776431220774436374129219823688123999070364861308520158890848999314552569_myibrl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757801/PROPIEDADES/DEPARTAMENTO%20SAN%20MARTIN%20Pueyrredon%20al%203500%20-%20Piso%203rO/89186214792337966404424693959919766304116306609650851540461497519474033262804_ztoiqr.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757801/PROPIEDADES/DEPARTAMENTO%20SAN%20MARTIN%20Pueyrredon%20al%203500%20-%20Piso%203rO/51125924688395234089393193652555677764733248488944799297418059506054186975915_iwpi7o.jpg"
         ]
     }
 ]
