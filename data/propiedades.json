@@ -165,6 +165,28 @@
         ]
     },
     {
+        "id": "depto-2amb-villa-pueyrredon",
+        "titulo": "Departamento 2 ambientes en venta en Villa Pueyrredón",
+        "precio": "59.900",
+        "ubicacion": "Carlos Antonio López al 2400, Villa Pueyrredón",
+        "ambientes": "2",
+        "tipo": "Departamento",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3284.923550966094!2d-58.50540650000001!3d-34.5808009!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM0JzUwLjkiUyA1OMKwMzAnMTkuNSJX!5e0!3m2!1ses-419!2sar!4v1761665858216!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "1 dormitorio", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "27 m² totales", "tipo": "superficie" },
+            { "nombre": "27 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "2 ambientes", "tipo": "ambientesSeparados" },
+            { "nombre": "Orientación Este", "tipo": "orientacion" }
+        ],
+        "descripcion": "A metros de centro comercial, cafetería, teatro, estaciones de servicio, colegios todo a mano. A 100 mts de Av. Olazabal. A 300 mts de Av. constituyentes. A 400 mts de Av. Pueyrredón. Tren. Colectivos 107 110 87 114 90. Living comedor, cocina integrada con ventilador de techo. Baño completo 1.78 x 1.10. Dormitorio 2.60 x 2.60 con tiro balanceado. Lavadero 1 x 1, Luminoso",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1761665737/PROPIEDADES/DEPTO%20EN%20VILLA%20PUEYRREDO%CC%81N/1_w5qdoe.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761665736/PROPIEDADES/DEPTO%20EN%20VILLA%20PUEYRREDO%CC%81N/2_ihrlyt.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761665736/PROPIEDADES/DEPTO%20EN%20VILLA%20PUEYRREDO%CC%81N/3_lqzbns.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761665735/PROPIEDADES/DEPTO%20EN%20VILLA%20PUEYRREDO%CC%81N/4_ophvau.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761665735/PROPIEDADES/DEPTO%20EN%20VILLA%20PUEYRREDO%CC%81N/5_vyih24.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761665735/PROPIEDADES/DEPTO%20EN%20VILLA%20PUEYRREDO%CC%81N/6_czvqnz.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761665735/PROPIEDADES/DEPTO%20EN%20VILLA%20PUEYRREDO%CC%81N/7_whoe3m.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761665734/PROPIEDADES/DEPTO%20EN%20VILLA%20PUEYRREDO%CC%81N/8_atyr3m.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761665735/PROPIEDADES/DEPTO%20EN%20VILLA%20PUEYRREDO%CC%81N/9_gfrhhn.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761665735/PROPIEDADES/DEPTO%20EN%20VILLA%20PUEYRREDO%CC%81N/10_rr2h00.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761665735/PROPIEDADES/DEPTO%20EN%20VILLA%20PUEYRREDO%CC%81N/11_wkjbdj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761665735/PROPIEDADES/DEPTO%20EN%20VILLA%20PUEYRREDO%CC%81N/12_laneup.jpg"
+        ]
+    },
+    {
         "id": "depto-2amb-estrenar-pilar",
         "titulo": "DEPTOS 2 AMB A ESTRENAR A LA VENTA EN PILAR",
         "precio": "53.000",
