@@ -165,6 +165,27 @@
         ]
     },
     {
+        "id": "depto-2amb-estrenar-pilar",
+        "titulo": "DEPTOS 2 AMB A ESTRENAR A LA VENTA EN PILAR",
+        "precio": "53.000",
+        "ubicacion": "Buenos Aires esquina Misiones, Pilar",
+        "ambientes": "2",
+        "tipo": "Departamento",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3289.509284909337!2d-58.90082439999999!3d-34.4646025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDI3JzUyLjYiUyA1OMKwNTQnMDMuMCJX!5e0!3m2!1ses-419!2sar!4v1761661383145!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "1 dormitorio", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "1 Cochera", "tipo": "cochera" },
+            { "nombre": "39 m² totales", "tipo": "superficie" },
+            { "nombre": "35 m² cubiertos", "tipo": "superficieCubierta" }
+        ],
+        "descripcion": "Excelente complejo en Pilar, donde el diseño y el confort se fusionan para ofrecerte un estilo de vida único. Hermosos departamentos de 1 y 2 ambientes, muy luminosos, con excelentes terminaciones y exclusivos diseños de interiores y exteriores. Ubicado en una de las zonas más lindas de Pilar, con innovadores espacios verdes que brindan un entorno de tranquilidad y armonía. Los departamentos de 2 ambientes (39 mts²) cuentan con cochera, hall, living comedor, cocina, 1 dormitorio y balcón. Los de 1 ambiente (28 mts²) incluyen cochera, amplio ambiente, baño y cocina. Una oportunidad imperdible para quienes buscan confort y estilo.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1761661729/PROPIEDADES/DEPTO%20A%20ESTRENAR%20PILAR%2053K/1_zjniqa.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761661727/PROPIEDADES/DEPTO%20A%20ESTRENAR%20PILAR%2053K/2_qf4lj9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761661728/PROPIEDADES/DEPTO%20A%20ESTRENAR%20PILAR%2053K/3_bcmx2f.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761661724/PROPIEDADES/DEPTO%20A%20ESTRENAR%20PILAR%2053K/4_xtu1vn.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761661725/PROPIEDADES/DEPTO%20A%20ESTRENAR%20PILAR%2053K/5_baxbzq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761661726/PROPIEDADES/DEPTO%20A%20ESTRENAR%20PILAR%2053K/6_kuvhj5.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761661725/PROPIEDADES/DEPTO%20A%20ESTRENAR%20PILAR%2053K/7_bixmte.jpg"
+        ]
+    },
+    {
         "id": "casa-country-miraflores",
         "titulo": "Excelente casa en Country Miraflores - Pilar",
         "precio": "800.000",
