@@ -1,4 +1,50 @@
 [{
+        "id": "",
+        "titulo": "",
+        "precio": "930.000",
+        "ubicacion": "Barrio Ayres de Pilar, Abra Grande al 16",
+        "ambientes": "5",
+        "tipo": "Casa",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3290.5830589297398!2d-58.80017639999999!3d-34.4373444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDI2JzE0LjQiUyA1OMKwNDgnMDAuNiJX!5e0!3m2!1ses-419!2sar!4v1761659465966!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "4 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "4 baños", "tipo": "baños" },
+            { "nombre": "2 Cocheras", "tipo": "cochera" },
+            { "nombre": "375,35 m² totales", "tipo": "superficie" },
+            { "nombre": "326,86 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "VENTA CON RENTA. Impecable casa de diseño contemporáneo, ubicada sobre un lote abierto con vistas al pulmón verde, dentro del exclusivo barrio Ayres de Pilar. Desarrollada en dos plantas, se destaca por sus líneas rectas, amplitud y excelente luminosidad en todos los ambientes. En planta baja, cuenta con un amplio living comedor con salida directa a la galería, escritorio o dormitorio de huéspedes, toilette con ducha, y una cocina moderna con gran isla central, ideal como comedor diario. Completa esta planta un family, lavadero con doble acceso y dependencia de servicio con baño. En la planta alta, un hall distribuidor conecta la suite principal con vestidor, una suite junior también con vestidor, y dos dormitorios adicionales en semi suite con baño compartimentado, brindando comodidad y privacidad a cada integrante de la familia. En el exterior, la casa ofrece una gran galería con parrilla, jardín parquizado con pileta y riego automático por aspersión, ideales para disfrutar del entorno verde que caracteriza al barrio. Detalles constructivos: Muros dobles exteriores, calefacción por losa radiante, aire central frío/calor, aberturas de aluminio con doble vidrio, pisos de mármol travertino en planta baja y pisos Ilva símil madera en planta alta. Las cortinas roller de la planta alta son automatizadas, aportando confort y funcionalidad. Ayres de Pilar es uno de los barrios más prestigiosos de la zona, con 180 hectáreas, 22 comunidades y 850 lotes de entre 800 y 1500 m². Ubicado a la altura del km 43,5 de Panamericana Ramal Pilar, ofrece excelente acceso y una infraestructura social y deportiva de primer nivel: Club House con restaurant, SUM, gimnasio, canchas de tenis, fútbol, paddle y squash, piscina para adultos y niños, minimarket, guardería, circuito aeróbico de 6 km y un parque central de 10 hectáreas.",
+        "imagenes": [
+            "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""
+        ]
+    },
+    {
+        "id": "casa-barrio-los-fresnos-pilar",
+        "titulo": "Casa en Barrio Los Fresnos a la venta en Pilar - Excelente acceso a Au. Panamericana",
+        "precio": "310.000",
+        "ubicacion": "Barrios Los Fresnos Lote Nº 59, Pilar",
+        "ambientes": "6",
+        "tipo": "Casa",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3290.5036054521274!2d-58.8472812!3d-34.439361999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDI2JzIxLjciUyA1OMKwNTAnNTAuMiJX!5e0!3m2!1ses-419!2sar!4v1761658415725!5m2!1ses-419!2sar",
+        "caracteristicas": [
+            { "nombre": "3 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "2 baños", "tipo": "baños" },
+            { "nombre": "5 Cocheras", "tipo": "cochera" },
+            { "nombre": "231 m² totales", "tipo": "superficie" },
+            { "nombre": "187 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" }
+        ],
+        "descripcion": "Casa con pileta y de gran acceso a la venta en Barrio Los Fresnos, Pilar Hermosa casa de estilo moderno en Barrio Los Fresnos, a solo 500 m de Panamericana Ramal Pilar. Sobre lote de 832 m², con 231 m² construidos (187 m² cubiertos + 44 m² semicubiertos). Cuenta con 3 dormitorios (principal en suite), 2 baños completos, toilette, gran living comedor, cocina con comedor diario y playroom en planta alta. A/C en todos los ambientes. Caldera nueva. Exterior con galería con parrilla y bacha, jardín parquizado con pileta y espacio para varios autos. Además, cuarto externo con baño, ideal escritorio o dependencia. Entorno tranquilo y verde, con excelente acceso y cercanía a cafés, restaurantes y shoppings. Comodidad, naturaleza y ubicación inmejorable en Pilar.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1761657990/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/1_y4tydf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657990/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/2_ys7phn.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657990/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/3_gevhud.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657989/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/4_xm46ol.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657989/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/5_noenkd.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657989/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/6_e1xov9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657989/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/7_lfszmf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657984/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/8_a2dem5.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657984/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/9_qgnv2h.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657986/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/10_qyeddz.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657985/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/11_oep2q7.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657985/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/12_dq91l3.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657985/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/13_m28tan.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657984/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/14_ip5p4s.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657984/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/15_bi31zs.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657985/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/16_xg6c5t.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657984/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/17_kntg9e.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657988/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/18_hy0iwe.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657989/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/19_sdiqhf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657986/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/20_zjbwkk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657986/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/20_zjbwkk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657986/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/21_csejon.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657987/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/22_x99zqq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657987/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/23_yrimj0.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657988/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/24_cbayqx.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657988/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/25_n8znkm.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657987/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/26_lu0a8e.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657987/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/27_vd9nqe.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1761657984/PROPIEDADES/CASA%20PILAR%20LOS%20FRESNOS/28_cpev3m.jpg"
+        ]
+    },
+    {
         "id": "loft-villa-urquiza-2",
         "titulo": "Departamento tipo Loft 2 ambientes a estrenar en Villa Urquiza",
         "precio": "265.000",
