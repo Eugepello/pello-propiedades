@@ -1,4 +1,27 @@
 [{
+        "id": "triplex-5amb-martinez",
+        "titulo": "Casa tipo TRIPLEX en Martínez",
+        "precio": "295.000",
+        "ubicacion": "Santiago del Estero al 1400, Martínez",
+        "ambientes": "5",
+        "tipo": "Casa",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3288.154603309658!2d-58.5166338!3d-34.4989646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDI5JzU2LjMiUyA1OMKwMzAnNTkuOSJX!5e0!3m2!1ses!2sar!4v1762364017330!5m2!1ses!2sar",
+        "caracteristicas": [
+            { "nombre": "3 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "1 Cochera", "tipo": "cochera" },
+            { "nombre": "215 m² totales", "tipo": "superficie" },
+            { "nombre": "125 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Piscina", "tipo": "piscina" },
+            { "nombre": "Parrilla", "tipo": "parrilla" }
+        ],
+        "descripcion": "Luminosa casa tipo tríplex con muy buena distribución y espacios amplios, ideal para familias que buscan confort, funcionalidad y una zona tranquila, cerca de avenidas principales, colegios y comercios. La propiedad cuenta con una superficie cubierta de 123 m² y 94 m² descubiertos, distribuidos en tres plantas: Planta Baja: Amplio living comedor con salida al patio, toilette de recepción, y cocina independiente de muy buen tamaño, totalmente equipada. Al fondo, un gran patio con parrilla, pileta con bomba y espacio verde ideal para disfrutar al aire libre. Primer Piso: Tres dormitorios con placard, el principal con baño en suite, más un baño completo adicional y pasillo distribuidor con muy buena circulación y luz natural. Segundo Piso: Espacioso playroom o cuarto multifunción, con toilette propio, ideal para usar como sala de juegos, escritorio o cuarto adicional. La casa se encuentra en excelente estado de conservación, con detalles de calidad, ambientes luminosos y cómodos, y una ubicación estratégica dentro de Martínez, en entorno residencial y arbolado.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1762366200/PROPIEDADES/TRIPLEX%20MARTINEZ/1_crymks.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366199/PROPIEDADES/TRIPLEX%20MARTINEZ/2_udypr2.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366199/PROPIEDADES/TRIPLEX%20MARTINEZ/3_gkf8tb.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366197/PROPIEDADES/TRIPLEX%20MARTINEZ/4_t9pb7s.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366198/PROPIEDADES/TRIPLEX%20MARTINEZ/5_atxbnz.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366198/PROPIEDADES/TRIPLEX%20MARTINEZ/6_timzlu.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366198/PROPIEDADES/TRIPLEX%20MARTINEZ/7_b3cijt.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366193/PROPIEDADES/TRIPLEX%20MARTINEZ/8_ts4fp8.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366193/PROPIEDADES/TRIPLEX%20MARTINEZ/9_scnoo8.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366194/PROPIEDADES/TRIPLEX%20MARTINEZ/10_ht31zx.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366194/PROPIEDADES/TRIPLEX%20MARTINEZ/11_pnbeza.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366194/PROPIEDADES/TRIPLEX%20MARTINEZ/12_g7mxa2.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366194/PROPIEDADES/TRIPLEX%20MARTINEZ/13_m2mcci.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366193/PROPIEDADES/TRIPLEX%20MARTINEZ/14_lfusqi.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366193/PROPIEDADES/TRIPLEX%20MARTINEZ/15_qqnacv.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366194/PROPIEDADES/TRIPLEX%20MARTINEZ/16_yjisvo.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366193/PROPIEDADES/TRIPLEX%20MARTINEZ/17_fbtsgh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366197/PROPIEDADES/TRIPLEX%20MARTINEZ/18_s8p1cv.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366197/PROPIEDADES/TRIPLEX%20MARTINEZ/19_e8purh.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366196/PROPIEDADES/TRIPLEX%20MARTINEZ/20_zety0g.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366196/PROPIEDADES/TRIPLEX%20MARTINEZ/21_k3iyaj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366197/PROPIEDADES/TRIPLEX%20MARTINEZ/22_h1mnvj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762366197/PROPIEDADES/TRIPLEX%20MARTINEZ/23_tgehdm.jpg"
+        ]
+    }, {
         "id": "casa-5amb-ayres-del-pilar-",
         "titulo": "Excelente casa de 4 dormitorios en venta en Barrio Ayres de Pilar",
         "precio": "930.000",
