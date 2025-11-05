@@ -649,6 +649,27 @@
         ]
     },
     {
+        "id": "casa-4amb-olivos-miguel-cane",
+        "titulo": "Casa 4 ambientes en Olivos",
+        "precio": "110.000",
+        "ubicacion": "Miguel Cane al 3500",
+        "ambientes": "4",
+        "tipo": "Casa",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3287.6037170691375!2d-58.5135929!3d-34.5129295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDMwJzQ2LjYiUyA1OMKwMzAnNDguOSJX!5e0!3m2!1ses!2sar!4v1762370427743!5m2!1ses!2sar",
+        "caracteristicas": [
+            { "nombre": "2 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "Cochera", "tipo": "cochera" },
+            { "nombre": "85 m² totales", "tipo": "superficie" },
+            { "nombre": "55 m² cubiertos", "tipo": "superficieCubierta" }
+        ],
+        "descripcion": "Con un hall de entrada espacioso, dos dormitorios con armarios empotrados y un baño completo, esta casa ofrece comodidad y estilo. El luminoso living con su piso tarugado es perfecto para relajarte o recibir invitados. La cocina completamente equipada cuenta con muebles de calidad y amplio espacio de trabajo. Además, un patio con parrilla y lavadero te invita a disfrutar del aire libre. Con su cocheras, al frente, nunca tendrás que preocuparte por el estacionamiento. El playroom con acceso por escalera ofrece un espacio adicional para tus necesidades. ¡No pierdas la oportunidad de llamar a esta propiedad tu hogar! Medidas de los ambientes: Hall de entrada ; 3,44x 0, 81; Dor 1 : 3,52x 3,12; Baño completo 2,24 x 1,50; Dor 2; 3,54x 3,10; Living: 5,83x 3,19; Toilette : 1,32x0.90; Cocina 3,54x3,17; Patio de 4,19x 3,17; Cochera 5,23x3,17; Play con acceso escalera 3,12 x 3,29",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1762370530/PROPIEDADES/CASA%20OLIVOS%20110K/1_wg3jvm.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370530/PROPIEDADES/CASA%20OLIVOS%20110K/2_rswn9f.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370530/PROPIEDADES/CASA%20OLIVOS%20110K/3_tiftd8.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370528/PROPIEDADES/CASA%20OLIVOS%20110K/4_hfgirk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370528/PROPIEDADES/CASA%20OLIVOS%20110K/5_b7lb7r.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370529/PROPIEDADES/CASA%20OLIVOS%20110K/6_nuyd9g.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370529/PROPIEDADES/CASA%20OLIVOS%20110K/7_loh49v.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370527/PROPIEDADES/CASA%20OLIVOS%20110K/8_hvlnie.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370527/PROPIEDADES/CASA%20OLIVOS%20110K/9_z7yc2i.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370528/PROPIEDADES/CASA%20OLIVOS%20110K/10_hx0kpc.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370528/PROPIEDADES/CASA%20OLIVOS%20110K/11_iurzxl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370527/PROPIEDADES/CASA%20OLIVOS%20110K/12_xdbejl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370528/PROPIEDADES/CASA%20OLIVOS%20110K/13_v9u0hp.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370527/PROPIEDADES/CASA%20OLIVOS%20110K/14_obx5qi.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370527/PROPIEDADES/CASA%20OLIVOS%20110K/15_fhspww.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370527/PROPIEDADES/CASA%20OLIVOS%20110K/16_lcttvq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762370527/PROPIEDADES/CASA%20OLIVOS%20110K/17_zfc4ur.jpg"
+        ]
+    },
+    {
         "id": "ph-san-isidro",
         "titulo": "PH 5 ambientes en San Isidro",
         "precio": "249.000",
