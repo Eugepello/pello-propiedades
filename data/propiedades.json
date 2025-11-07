@@ -585,6 +585,29 @@
         ]
     },
     {
+        "id": "ph-4amb-florida",
+        "titulo": "PH de 4 ambientes a la venta en Florida",
+        "precio": "150.000",
+        "ubicacion": "Aristobulo del Valle al 1700, Florida",
+        "ambientes": "4",
+        "tipo": "PH",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3286.6267789167578!2d-58.4799362!3d-34.5376826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDMyJzE1LjciUyA1OMKwMjgnNDcuOCJX!5e0!3m2!1ses!2sar!4v1762482614390!5m2!1ses!2sar",
+        "caracteristicas": [
+            { "nombre": "3 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "1 Cochera", "tipo": "cochera" },
+            { "nombre": "98 m² totales", "tipo": "superficie" },
+            { "nombre": "73 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "Orientación Sur", "tipo": "orientacion" },
+            { "nombre": "5 ambientes", "tipo": "ambientesSeparados" }
+        ],
+        "descripcion": "PH al frente con garage y terraza – Florida, Vicente López. Amplio PH de 4 ambientes al frente, ubicado sobre Aristóbulo del Valle al 1700, en una de las zonas más prácticas y conectadas de Florida. La propiedad cuenta con living comedor, cocina amplia con muebles completos sobre y bajo mesada, y tres dormitorios con pisos de pinotea en excelente estado. Dispone de un baño completo, patio cubierto y una hermosa terraza, ideal para disfrutar del aire libre o proyectar un espacio de recreación. Incluye garage al frente, con acceso cómodo y seguro. Detalles y características: PH de 4 ambientes al frente. Cocina y baño en buen estado general. Ambientes luminosos y funcionales. Terraza y patio cubierto. Garage propio. Ubicación y entorno. Excelente conectividad, a solo: 200 mts de Av. Maipú. 200 mts de Av. General Paz. 250 mts de la Estación de Transferencia Puente Saavedra. 300 mts del Estadio Ciudad de Vicente López. Zona con comercios, bares, restaurantes y servicios cercanos, ideal para vivir con comodidad y fácil acceso a la Ciudad de Buenos Aires.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1762483130/PH%204%20AMB%20FLORIDA%20150K/1_ra5dca.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762483130/PH%204%20AMB%20FLORIDA%20150K/2_snoeih.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762483336/PH%204%20AMB%20FLORIDA%20150K/3-Photoroom_pcn4mh.png", "https://res.cloudinary.com/eugepello/image/upload/v1762483129/PH%204%20AMB%20FLORIDA%20150K/4_f4m5ho.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762483129/PH%204%20AMB%20FLORIDA%20150K/5_wfffpx.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762483130/PH%204%20AMB%20FLORIDA%20150K/6_vuzxhr.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762483130/PH%204%20AMB%20FLORIDA%20150K/7_inzoje.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762483129/PH%204%20AMB%20FLORIDA%20150K/8_rgpdg4.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762483129/PH%204%20AMB%20FLORIDA%20150K/9_slis1c.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762483130/PH%204%20AMB%20FLORIDA%20150K/10_ck8txk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762483129/PH%204%20AMB%20FLORIDA%20150K/11_dsx77n.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1762483129/PH%204%20AMB%20FLORIDA%20150K/12_fm2m2b.jpg"
+        ]
+    },
+    {
         "id": "depto-3-amb-pedro-rivera-urquiza",
         "titulo": "Hermoso Departamento de 3 ambientes en alquiler - Villa Urquiza",
         "precio": "800",
