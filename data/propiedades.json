@@ -445,7 +445,7 @@
     {
         "id": "local-en-florida-oeste",
         "titulo": "Importante Local de dos plantas en Florida Oeste",
-        "precio": "990.000",
+        "precio": "900.000",
         "ubicacion": "Avenida San Martín 3460",
         "ambientes": "",
         "tipo": "Local",
@@ -716,7 +716,7 @@
     {
         "id": "local-en-florida-oeste-alquiler",
         "titulo": "Alquiler: Importante Local de dos plantas en Florida Oeste",
-        "precio": "7.000",
+        "precio": "6.000",
         "ubicacion": "Avenida San Martín 3460, Florida Oeste",
         "ambientes": "",
         "tipo": "Local",
