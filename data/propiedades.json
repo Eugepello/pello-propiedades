@@ -1,4 +1,23 @@
 [{
+        "id": "ph-florida-oeste",
+        "titulo": "PH en Florida Oeste",
+        "precio": "80.000",
+        "ubicacion": "Hipolito Yrigoyen al 3700, Florida Oeste",
+        "ambientes": "2",
+        "tipo": "PH",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3286.776091867248!2d-58.512330500000004!3d-34.5339004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDMyJzAyLjAiUyA1OMKwMzAnNDQuNCJX!5e0!3m2!1ses!2sar!4v1769270671991!5m2!1ses!2sar",
+        "caracteristicas": [
+            { "nombre": "1 dormitorio", "tipo": "dormitorios" },
+            { "nombre": "2 baños", "tipo": "baños" },
+            { "nombre": "80 m² totales", "tipo": "superficie" },
+            { "nombre": "80 m² cubiertos", "tipo": "superficieCubierta" }
+        ],
+        "descripcion": "PH tipo casa al frente con entrada independiente y sin expensas. Ubicado en Florida Oeste, a pocas cuadras de Av. Mitre y Av. San Martín, con múltiples líneas de transporte público cercanas y fácil acceso a zonas comerciales y recreativas. La propiedad cuenta con una superficie total de 80 m², distribuidos en dos plantas. En la planta baja, encontramos un amplio living comedor con cocina integrada, equipada con muebles bajo mesada y alacenas, un baño completo. En la planta alta, se encuentra el dormitorio principal con placard empotrado y un segundo baño completo. La propiedad se destaca por su buena distribución, ambientes luminosos y detalles de calidad en sus terminaciones. Ideal para parejas o personas que buscan un espacio cómodo y funcional en una ubicación estratégica dentro de Florida Oeste.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1769270822/PROPIEDADES/PH%20FLorida%20oeste/1_xzrdid.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1769270822/PROPIEDADES/PH%20FLorida%20oeste/2_b7nypl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1769270822/PROPIEDADES/PH%20FLorida%20oeste/3_fpiwgx.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1769270823/PROPIEDADES/PH%20FLorida%20oeste/4_cdjfaf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1769270823/PROPIEDADES/PH%20FLorida%20oeste/5_h68tak.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1769270822/PROPIEDADES/PH%20FLorida%20oeste/6_oto9kq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1769270822/PROPIEDADES/PH%20FLorida%20oeste/7_q3e87p.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1769270823/PROPIEDADES/PH%20FLorida%20oeste/8_vqvhbo.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1769270823/PROPIEDADES/PH%20FLorida%20oeste/9_wrfjz1.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1769270823/PROPIEDADES/PH%20FLorida%20oeste/10_hotjek.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1769270824/PROPIEDADES/PH%20FLorida%20oeste/11_vpuhvj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1769270824/PROPIEDADES/PH%20FLorida%20oeste/12_wswhyd.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1769270824/PROPIEDADES/PH%20FLorida%20oeste/13_gahx8k.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1769270824/PROPIEDADES/PH%20FLorida%20oeste/14_p5sw0g.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1769270825/PROPIEDADES/PH%20FLorida%20oeste/15_hgazcd.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1769270825/PROPIEDADES/PH%20FLorida%20oeste/16_epa7pl.jpg"
+        ]
+    }, {
         "id": "triplex-5amb-martinez",
         "titulo": "Casa tipo TRIPLEX en Martínez",
         "precio": "295.000",
