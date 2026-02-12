@@ -1,4 +1,27 @@
 [{
+        "id": "4amb-departamento-en-villa-urquiza",
+        "titulo": "Departamento 3 ambientes en Villa Urquiza",
+        "precio": "190.000",
+        "ubicacion": "Nuñez al 4600, Villa Urquiza",
+        "ambientes": "3",
+        "tipo": "Departamento",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3285.70147112909!2d-58.48739489999999!3d-34.5611132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDMzJzQwLjAiUyA1OMKwMjknMTQuNiJX!5e0!3m2!1ses!2sar!4v1770862968953!5m2!1ses!2sar",
+        "caracteristicas": [
+            { "nombre": "2 dormitorios", "tipo": "dormitorios" },
+            { "nombre": "2 baños", "tipo": "baños" },
+            { "nombre": "100 m² totales", "tipo": "superficie" },
+            { "nombre": "65 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "1 Cochera", "tipo": "cochera" },
+            { "nombre": "Jardín", "tipo": "jardin" },
+            { "nombre": "Parrilla", "tipo": "parrilla" },
+            { "nombre": "3 ambientes", "tipo": "ambientesSeparados" }
+        ],
+        "descripcion": "Dúplex en planta baja ubicado en una excelente zona de Villa Urquiza, desarrollado en dos plantas y en estado impecable. La unidad ofrece una distribución moderna y funcional, con ambientes luminosos y muy bien aprovechados, además de un cómodo patio propio ideal para disfrutar al aire libre. En la planta baja se encuentra el dormitorio principal, un living comedor de muy buenas dimensiones y una cocina integrada de diseño contemporáneo, equipada con mobiliario moderno y excelente espacio de guardado. En este nivel también se ubica un baño completo. Desde el living se accede al patio, un espacio versátil para reuniones, plantas o uso familiar cotidiano. En la planta superior se desarrolla un segundo dormitorio con baño completo, generando un ambiente privado y confortable. La propiedad se destaca por su excelente estado general, su funcionalidad y la ubicación estratégica dentro de Villa Urquiza, con rápido acceso a comercios, transporte y servicios. Ideal para quienes buscan un hogar moderno con espacio exterior propio en uno de los barrios de mayor crecimiento de la ciudad.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1770863529/PROPIEDADES/depto-para-wil/1_l7b1ih.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770863528/PROPIEDADES/depto-para-wil/2_ooxn8h.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770863528/PROPIEDADES/depto-para-wil/3_oaqy1d.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770863528/PROPIEDADES/depto-para-wil/4_in3eep.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770863528/PROPIEDADES/depto-para-wil/5_xufa8s.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770863529/PROPIEDADES/depto-para-wil/6_nahws9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770863528/PROPIEDADES/depto-para-wil/7_hfraaa.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770863527/PROPIEDADES/depto-para-wil/8_kxu0sl.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770863527/PROPIEDADES/depto-para-wil/9_dsmryc.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770863527/PROPIEDADES/depto-para-wil/10_sotxte.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770863528/PROPIEDADES/depto-para-wil/11_zto8vm.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770863527/PROPIEDADES/depto-para-wil/12_ltmf6j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770863527/PROPIEDADES/depto-para-wil/13_yu0dhj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770863527/PROPIEDADES/depto-para-wil/14_je9ouq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770863528/PROPIEDADES/depto-para-wil/15_v93dlo.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770863528/PROPIEDADES/depto-para-wil/16_hicu2z.jpg"
+        ]
+    }, {
         "id": "ph-florida-oeste",
         "titulo": "PH en Florida Oeste",
         "precio": "80.000",
