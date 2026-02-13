@@ -1,4 +1,23 @@
 [{
+        "id": "monoamb-divisible-villaurquiza",
+        "titulo": "Monoambiente divisible con patio en Villa Urquiza",
+        "precio": "79.000",
+        "ubicacion": "Pedraza al 6000, Villa Urquiza",
+        "ambientes": "1",
+        "tipo": "Departamento",
+        "operacion": "Venta",
+        "mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3285.3269560318163!2d-58.502179999999996!3d-34.5705927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM0JzE0LjEiUyA1OMKwMzAnMDcuOSJX!5e0!3m2!1ses!2sar!4v1770952613485!5m2!1ses!2sar",
+        "caracteristicas": [
+            { "nombre": "49 m² totales", "tipo": "superficie" },
+            { "nombre": "37 m² cubiertos", "tipo": "superficieCubierta" },
+            { "nombre": "1 baño", "tipo": "baños" },
+            { "nombre": "Patio", "tipo": "patio" }
+        ],
+        "descripcion": "Excelente monoambiente divisible en planta baja, con un amplio patio propio que brinda una mayor sensación de espacio y luminosidad. La unidad se destaca por su diseño moderno: el sector de dormitorio se encuentra separado mediante una estructura de perfilería metálica y vidrio, logrando privacidad sin perder luz ni amplitud. El ambiente principal ofrece una muy buena distribución, ideal para adaptar distintos usos y generar un espacio cómodo y funcional. Cuenta con un baño completo y un lavadero cubierto ubicado junto a la entrada, lo que suma practicidad al día a día. Una propiedad con excelente potencial, moderna, amplia y con un patio único en la zona. Ideal para vivienda o inversión en pleno Villa Urquiza.",
+        "imagenes": [
+            "https://res.cloudinary.com/eugepello/image/upload/v1770952185/PROPIEDADES/monoamb-divisible-villaurquiza/1_vo2owp.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770952185/PROPIEDADES/monoamb-divisible-villaurquiza/2_qpp96f.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770952186/PROPIEDADES/monoamb-divisible-villaurquiza/3_fyv899.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770952185/PROPIEDADES/monoamb-divisible-villaurquiza/4_c4coss.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770952184/PROPIEDADES/monoamb-divisible-villaurquiza/5_jksnx7.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770952185/PROPIEDADES/monoamb-divisible-villaurquiza/6_dj9gof.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770952185/PROPIEDADES/monoamb-divisible-villaurquiza/7_y55dfw.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770952185/PROPIEDADES/monoamb-divisible-villaurquiza/8_zhipfg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770952185/PROPIEDADES/monoamb-divisible-villaurquiza/9_j3yt1j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770952184/PROPIEDADES/monoamb-divisible-villaurquiza/10_aiwvkk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770952184/PROPIEDADES/monoamb-divisible-villaurquiza/11_lpsh8g.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1770952184/PROPIEDADES/monoamb-divisible-villaurquiza/12_tusdpm.jpg"
+        ]
+    }, {
         "id": "4amb-departamento-en-villa-urquiza",
         "titulo": "Departamento 3 ambientes en Villa Urquiza",
         "precio": "190.000",
