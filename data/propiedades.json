@@ -504,16 +504,16 @@
         ]
     },
     {
-        "id": "local-en-florida-oeste",
-        "titulo": "Importante Local de dos plantas en Florida Oeste",
+        "id": "terreno-en-florida-oeste",
+        "titulo": "Amplio terreno con buena estructura ideal para desarrollo en Florida Oeste, Vicente López",
         "precio": "900.000",
         "ubicacion": "Avenida San Martín 3460",
-        "ambientes": "",
-        "tipo": "Local",
+        "ambientes": "10",
+        "tipo": "Terreno",
         "operacion": "Venta",
         "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.7102022968174!2d-58.50997702516783!3d-34.53556947297876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb6d56d042a5b%3A0xfeae20ff3029ec88!2sGral.%20Jos%C3%A9%20de%20San%20Mart%C3%ADn%203460%2C%20B1604DEQ%20Florida%20Oeste%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1749756420796!5m2!1ses-419!2sar",
         "caracteristicas": [
-            { "nombre": "1200 m² totales", "tipo": "superficie" },
+            { "nombre": "673 m² totales", "tipo": "superficie" },
             { "nombre": "1200 m² cubiertos", "tipo": "superficieCubierta" },
             { "nombre": "Oficinas", "tipo": "oficina" },
             { "nombre": "Depósito", "tipo": "deposito" },
@@ -521,7 +521,7 @@
             { "nombre": "Vestuario", "tipo": "vestuario" },
             { "nombre": "Montacarga", "tipo": "montacarga" }
         ],
-        "descripcion": "Ubicación estratégica sobre Av. San Martín 3460, a 2 cuadras de Panamericana y 1 de Av. Mitre. Zona de alto tránsito vehicular y peatonal. Rodeado de comercios. Superficie total incluida en la operación: 1200 m² cubiertos. Ideal para empresas logísticas, tecnológicas, concesionarias, supermercados, distribución, centros de salud o incluso desarrollo inmobiliario. Oportunidad única para establecer tu negocio en el corazón de Vicente López. El local cuenta con oficinas, depósito en planta baja y un amplio depósito en primer piso, montacarga, baños para hombres y mujeres, vestuarios con duchas, terraza y más. También se puede construir: Codificación: C5; Premios 50%; FOS 0,6; FOT 2.0; Densidad neta: 500 habitantes. Hasta 2.400 metros construibles",
+        "descripcion": "Terreno/lote IDEAL para Desarrollo. Ubicación estratégica sobre Avenida San Martín al 3400, a 2 cuadras de Panamericana y 1 de Av. Mitre. Zona de alto tránsito vehicular, transporte público y peatonal. Rodeado de comercios y servicios. Sin expensas. Gran oportunidad de desarrollo inmobiliario y construcción: Superficie del terreno: 672 m²; Superficie total construida: 1.200 m² cubiertos. 2.400 m² construibles EXTRA a los 1200 m² ya existentes. 3.600 m² totales proyectables y aproximadamente 2700 m² VENDIBLES. Losa reforzada ya ejecutada que permite proyectar nuevas plantas con un porcentaje de costo de obra cubierto. Columnas y losa impecables. Frente muy atractivo: 17,32 metros. Codificación: C5; FOT 2.0; FOS 0,6. Acepta permuta de Departamentos a estrenar.",
         "imagenes": [
             "https://res.cloudinary.com/eugepello/image/upload/c_crop,w_2400,h_1654/v1749915472/PROPIEDADES/SANITARIOS%20LONJEDO/Screenshot_2025-06-14_at_12.37.20_lyyusd.png", "https://res.cloudinary.com/eugepello/image/upload/v1749755487/PROPIEDADES/SANITARIOS%20LONJEDO/image00012_a2yyee.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755488/PROPIEDADES/SANITARIOS%20LONJEDO/image00011_fqizuf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755488/PROPIEDADES/SANITARIOS%20LONJEDO/image00010_ssuvzk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749752610/PROPIEDADES/SANITARIOS%20LONJEDO/DJI_20250612125631_0006_D_biz0n9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755768/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_125817_cqy19j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755775/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132026_jmzoie.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749756217/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132009_enp6mg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755778/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132106_q0wlvk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755776/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132140_jvwxkg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755773/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131922_yra64j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755778/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131934_uqymfq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755775/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131908_eunnds.jpg"
         ]
@@ -773,31 +773,7 @@
         "imagenes": [
             "https://res.cloudinary.com/eugepello/image/upload/v1747757858/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_115168752516735206458998640478291137690586267562319319832419662992457272522631_hl0fru.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757811/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_82704707912770823867327314658314156317591265675597736075775574553837453262036_hzhrbw.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757809/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_54989596950059872634094612739227775568290692822825528386833759929293940125109_eeu6ej.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757848/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_8329501278226068298021271356051926636675565368079658125326449341662663197804_aokfvo.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757853/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_55723520445349771099337093065243096605780584011510599059163135552595867551514_truxnm.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757851/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_12673505535864372776905259276010128406759172081675819254753649034986074302924_zujn2f.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757849/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_65737970891342514687753124383682605242865474867027745537510789627068032260019_cu0htj.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757851/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_77129361772097939108101769636454452065706347785127799544890767175134893053709_rb0h4q.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757850/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_40591551878063594723032414062561446706624589447020851152196484514299040808803_kaau3t.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757848/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_57289375100324355530054646770414995493327458739609839384214791983691344077807_uv2wbs.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757812/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_41393510010280612663726781731081373722562019634923969822286745208366338750757_kslfrm.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757809/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_35647860806878246003043053974746988752631839426434194189466586848596098143722_dbc6ya.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757810/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_74902448391868393403506931258689734957941542708359131205964686044284928193025_xmwg27.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757809/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_97325949559592394289218403023456497657594162759455393297495975285645521617663_ye6cn6.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757809/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_32612660880707072424774348304219865744557219626322369008063547965067219105941_khxzro.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757809/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_85653161817434218420443826931607733666295364516370702960029860678204864706444_fzrccs.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1747757808/PROPIEDADES/PH%20EN%20SAN%20ISIDRO%20AVELLANEDA%20AL%201300/6108585_60001297355487095682249358118020779740289010801763570670323603662280478983578_kh6gln.jpg"
         ]
-    },
-    {
-        "id": "local-en-florida-oeste-alquiler",
-        "titulo": "Alquiler: Importante Local de dos plantas en Florida Oeste",
-        "precio": "7.000",
-        "ubicacion": "Avenida San Martín 3460, Florida Oeste",
-        "ambientes": "",
-        "tipo": "Local",
-        "operacion": "Alquiler",
-        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3288.751357084831!2d-58.512119325170666!3d-34.483831372997564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb04d411c5e19%3A0x90cd3caf62d7204a!2sAvenida%20San%20Mart%C3%ADn%203460%2C%20B1602FLA%20Florida%20Oeste%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1749915472476",
-        "caracteristicas": [
-            { "nombre": "1200 m² totales", "tipo": "superficie" },
-            { "nombre": "1200 m² cubiertos", "tipo": "superficieCubierta" },
-            { "nombre": "Oficinas", "tipo": "oficina" },
-            { "nombre": "Depósito", "tipo": "deposito" },
-            { "nombre": "Baño para ambos géneros", "tipo": "baños" },
-            { "nombre": "Vestuario", "tipo": "vestuario" },
-            { "nombre": "Montacarga", "tipo": "montacarga" }
-        ],
-        "descripcion": "Ubicación estratégica sobre Av. San Martín 3460, a 2 cuadras de Panamericana y 1 de Av. Mitre. Zona de alto tránsito vehicular y peatonal. Rodeado de comercios. Superficie total incluida en la operación: 1200 m² cubiertos. Ideal para empresas logísticas, tecnológicas, concesionarias, supermercados, distribución, centros de salud o incluso desarrollo inmobiliario. Oportunidad única para establecer tu negocio en el corazón de Vicente López. El local cuenta con oficinas, depósito en planta baja y un amplio depósito en primer piso, montacarga, baños para hombres y mujeres, vestuarios con duchas, terraza y más. También se puede construir: Codificación: C5; Premios 50%; FOS 0,6; FOT 2.0; Densidad neta: 500 habitantes. Hasta 2.400 metros construibles",
-        "imagenes": [
-            "https://res.cloudinary.com/eugepello/image/upload/c_crop,w_2400,h_1654/v1749915472/PROPIEDADES/SANITARIOS%20LONJEDO/Screenshot_2025-06-14_at_12.37.20_lyyusd.png", "https://res.cloudinary.com/eugepello/image/upload/v1749755487/PROPIEDADES/SANITARIOS%20LONJEDO/image00012_a2yyee.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755488/PROPIEDADES/SANITARIOS%20LONJEDO/image00011_fqizuf.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755488/PROPIEDADES/SANITARIOS%20LONJEDO/image00010_ssuvzk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749752610/PROPIEDADES/SANITARIOS%20LONJEDO/DJI_20250612125631_0006_D_biz0n9.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755768/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_125817_cqy19j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755775/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132026_jmzoie.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749756217/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132009_enp6mg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755778/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132106_q0wlvk.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755776/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_132140_jvwxkg.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755773/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131922_yra64j.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755778/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131934_uqymfq.jpg", "https://res.cloudinary.com/eugepello/image/upload/v1749755775/PROPIEDADES/SANITARIOS%20LONJEDO/20250612_131908_eunnds.jpg"
-        ]
-    },
-    {
+    }, {
         "id": "casa-los-troncos-pilar",
         "titulo": "Casa en Barrio Los Troncos, Pilar",
         "precio": "190.000",
